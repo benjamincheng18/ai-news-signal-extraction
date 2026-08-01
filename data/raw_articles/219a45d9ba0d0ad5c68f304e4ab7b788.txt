@@ -1,7 +1,0 @@
-微軟（Microsoft）在時隔兩年後推出第二代 AI 晶片「Maia 200」引起市場矚目，分析師盤點受惠族群，網通 IC 設計大廠邁威爾科技（Marvell Technology）、博通（Broadcom）獲得點名。
-Seeking Alpha、GuruFocus 27日報導，法國巴黎銀行（BNP Paribas）分析師Karl Ackerman發表研究報告指出，Marvell雖不太可能成為Maia 200晶片供應商，包下供應業務的應該是創意，但Marvell及博通卻有機會成為乙太網路專用積體電路（ASIC）供應商。
-其他潛在受惠者還包括銅纜背板供應商安費諾（Amphenol，APH.US）、光收發器供應商Arista Networks。若Maia 200採用了主動式電纜（active electrical cables，AEC），則Credo Technologies、Astera Labs（ALAB.US）有望從中受惠。
-Ackerman在報告中寫道，「我們相信Maia 200機櫃系統的配置將包括：12個運算托盤（compute trays）、4台第一層乙太網路擴充交換器（Tier-1 Ethernet scale-up switches）、6個CPU主節點（head nodes）、2台機櫃頂端（ToR）乙太網路交換機（用於前端網路）及1台帶外管理交換機（out-of-band management switch）。」
-Ackerman補充說，微軟的Maia 200預計將在2026年下半年加快部署，並在2027年擴大部署規模。
-值得注意的是，微軟透露，Maia 200晶片委託台積電以3奈米製程代工，每台伺服器內部整合了四顆相互連接的晶片，主要是靠乙太網路（Ethernet）線纜，而非常規的InfiniBand。輝達（Nvidia） 2020年併購Mellanox後，便開始販售InfiniBand交換器。
-（本文由MoneyDJ新聞授權轉載；首圖Maia 200機櫃，來源：微軟）

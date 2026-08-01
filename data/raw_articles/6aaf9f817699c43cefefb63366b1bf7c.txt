@@ -1,8 +1,0 @@
-近期網路傳出新的封裝技術 CoWoP（Chip on Wafer on PCB），並稱未來可能會取代 CoWoS。
-根據華爾街見聞報導，在 NVIDIA 從業 12 年的技術人員 Anand Mannargudi 在公司內部技術的簡報上提到一個環節，將從 CoWoS（Chip on Wafer on Substrate）技術過渡到 CoWoP 技術。
-傳統的 CoWoS 封裝方式，包括 GPU 核心和 HBM 等晶片（Die）、中介層（interposer）、封裝基板（Package Substrate）、再透過 BGA 與主板（Platform PCB）連接。
-至於 CoWoP 則直接砍掉封裝基板和 BGA，透過開發「平台 PCB」（Platform PCB）讓「晶片和中介層」這個組合直接安裝在主板上。如此一來，晶片的訊號可以直接從中介層走到主板，使互連路徑更短、散熱更好等。
-不過，美系外資出具最新報告指出，Nvidia Rubin Ultra 還不會採用 CoWoP，因從日廠 Ibiden 調研指出 Rubin Ultra 的ABF 載板面積遠大於 Rubin，且層數更多。若要將 PCB 的線寬/線距（L/S）從 20/35 微米進一步縮小到10/10 微米以下，將非常困難。
-若要採用 CoWoP 技術，PCB 線寬/線距需縮小至小於 10/10 微米，才能與目前 ABF 載板的水準一致。美系外資指出，目前 HDI 板的平均 L/S 為 40/50 微米，用於 iPhone 主機板的 SLP（類載板 PCB）平均為 20/35 微米。
-美系外資認為，如果從長遠發展看，CoWoP 可簡化 GPU 板卡製造流程，假設會採用的話，預期台廠如臻鼎、華通、欣興這些具備同 SLP（類載板）相同的製程技術有望受惠，但對 ABF 載板恐是負面解讀。
-（首圖來源：Freepik）

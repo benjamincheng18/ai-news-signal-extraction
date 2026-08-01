@@ -1,7 +1,0 @@
-知名 EDA 大廠益華電腦 (Cadence) 宣布，將進一步擴大與晶圓代工龍頭台積電的長期合作關係，致力於加速人工智慧（AI）領域的半導體創新。此次深化合作將全面涵蓋台積電的 N3、N2、A16 及 A14 先進製程節點，為客戶提供包含 IP、簽核就緒的一站式設計基礎架構與先進認證流程，進一步減少設計迭代次數，並大幅縮短晶片的上市與投片（tapeout）時程。
-
-Cadence 表示，本次合作的核心重點聚焦於「設計為 AI，AI 為設計（Design for AI and AI for Design）」雙軌策略上。在設計為 AI（Design for AI）的部分，提供認證的一站式流程與矽驗證 IP 為了滿足強大的 AI 運算需求，Cadence 正為台積電 N2P 製程提供豐富的 IP 組合（如 DDR5、PCIe 6.0 等）。透過其認證的一站式 EDA 流程，協助工程團隊順利將設計從先進節點 SoC 擴展至小晶片（chiplet）與 3D-IC 架構。包含 Innovus、Virtuoso Studio 等多項核心實作與分析平台，目前皆已通過台積電 N2 與 A16 認證，並持續針對 A14 PDK 展開合作，確保 AI 與高效能運算（HPC）應用能達到高品質的投片標準。
-而在AI 為設計（AI for Design）的方面，已打造「代理就緒」的晶片設計流程為目的。在提升生產力方面，Cadence 正推動 EDA 工具從單一工作流程轉型為「目標驅動」的代理式 AI 執行。藉由與台積電合作，雙方正建構「代理就緒（agent-ready）」的基礎架構，讓 AI 系統能結合領域推理與物理分析，全面優化晶片的 PPA（功耗、效能、面積）及可靠性。此外，Cadence 的 AI 驅動實作工具也已針對台積電 NanoFlex Pro 標準元件架構與 A16 Super Power Rail 技術進行了設計技術協同優化（DTCO）。
-目前，產業界的台積電 3 / 2 奈米設計動能相當強勁，突顯合作的廣泛影響力。包含 NVIDIA、Arm 及 Positron 等業界領袖皆對此表示肯定。NVIDIA 強調，次世代 AI 晶片的複雜度需要整合加速運算與代理 AI 的全新設計方法，此次合作將有助於交付世上最複雜的 AI 架構。還有AI 晶片新創 Positron 也指出，Cadence 的 IP 與前端工具搭配台積電 N3P 製程，為其第二代 AI 推論加速器提供了具備高度可預測性的投片路徑。
-台積電生態系與聯盟管理總監 Aveek Sarkar 表示，透過與 Cadence 等開放創新平台（OIP）夥伴的合作，將能賦予客戶信心，運用台積電最新製程與 3DFabric 先進封裝解決方案，為 AI 驅動的創新解鎖變革性契機。
-(首圖來源：The original uploader was King4057 at English Wikipedia.,CC BY-SA 3.0, via Wikimedia Commons)

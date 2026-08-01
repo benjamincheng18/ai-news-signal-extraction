@@ -1,7 +1,0 @@
-人工智慧巨頭 OpenAI 的融資規模再創紀錄。據知情人士透露，OpenAI 正接近達成一項約 100 億美元的新融資協議，這將使其最新這輪融資的總金額推升至約 1,200 億美元。
-
-本次融資吸引了全球頂尖投資機構的參與。阿布達比（Abu Dhabi）政府支持的 MGX、Coatue Management 以及 Thrive Capital 預計將參與此輪投資。此外，Altimeter Capital 也計劃加入注資行列。據悉，此輪融資的估值已達到 7,300 億美元（不計入本次新籌得資金）。
-這筆龐大的資金注入，正值 OpenAI 執行長（Chief Executive Officer，CEO）山姆‧奧特曼（Sam Altman）積極推動全球運算基礎設施建設的關鍵時刻。為了在與 Google DeepMind、Anthropic 及馬斯克（Elon Musk）旗下 xAI 的競爭中保持領先，OpenAI 計劃將資金投入於自研 AI 晶片開發、包括與博通（Broadcom）及台積電（TSMC）的合作，還有大規模資料中心建設，以及加速通用人工智慧（Artificial General Intelligence，AGI）的研發進度。
-MGX 的深度參與也釋放出重要訊號，顯示 OpenAI 正進一步強化與中東地區的戰略連結，這與其先前傳出的「Stargate」超級電腦計畫相呼應。儘管 OpenAI 在 2024 年轉向營利模式後面臨監管審查與法律挑戰，但其在推論模型（如 o1 系列）的領先地位，仍使其成為資本市場最受矚目的標的。
-隨著融資協議預計於近期完成，OpenAI 的市場估值已遠超其競爭對手 Anthropic（約 615 億美元）與 xAI（約 500 億美元），進一步鞏固了其在人工智慧產業的龍頭地位。目前 OpenAI 尚未對這項融資消息發表正式評論。
-（首圖來源：shutterstock）

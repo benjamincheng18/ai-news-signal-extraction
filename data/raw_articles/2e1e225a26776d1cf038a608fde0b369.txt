@@ -1,1 +1,0 @@
-極低延遲（<1μs）的 Scale-Up 技術誕生，AI 運算主體不再只是 Chip Scale（AI 晶片本身），而是延伸到 Rack Scale（AI Rack）、POD Scale。本篇文章將帶你了解 :AI運算主體從chip演化至Rack/POD，NVIDIA積極投資CXL Switch、光通訊零組件等AI資料中心硬體Google、AWS、Microsoft設計專屬AI Rack/POD硬體以提升AI運算效率ASIC設計服務商中，Broadcom、Marvell的Rack/POD布局完整，聯發科、創意、世芯等廠商積極布局CPO企圖彎道超車

@@ -1,5 +1,0 @@
-高通今（2日）宣布，華碩推出的ASUS Ascent QN10將是首款搭載Snapdragon X2 Elite的mini-PC。Snapdragon X2 Elite為桌上型電腦、mini-PC與筆記型電腦帶來將業界領先的效能、先進AI以及卓越能效。
-高通指出，迷你電腦（mini-PC）正邁入全新時代，這個時代以智慧效能、現代化設計，以及可在工作場域直接執行先進代理式AI體驗的能力為核心。隨著ASUS Ascent QN10正式推出，這款首款搭載Snapdragon X2 Elite平台的mini-PC，象徵高通技術公司與華碩攜手將Snapdragon X系列從Windows筆記型電腦進一步拓展至更廣泛的產品類型，並將其業界領先的效能與AI領導地位帶入AI mini-PC領域。
-ASUS QN10的核心搭載Snapdragon X2 Elite平台，可支援高需求的桌上型電腦工作負載，同時維持卓越能效。高通表示，Snapdragon X2 Elite可讓專業人士在各類複雜工作任務間無縫切換，無論開發或運行大型語言模型、處理大量資料、同時使用數十個應用程式，或執行AI代理。其優異的能效表現可支援長時間、高強度的工作情境，同時維持低溫、安靜運作並降低能耗成本。
-此外，Snapdragon X2 Elite可直接於裝置上實現新一代AI體驗。憑藉高達80 TOPS的超高速NPU，ASUS QN10可在本地執行先進A I模型，以及OpenClaw、Hermes、Cursor、Claude Desktop、OpenAI Codex與OpenCode等AI代理與協調。平台內建企業級晶片到雲端安全性，有助於在各個層級保護敏感資料，使Snapdragon X2 Elite成為專業及企業環境的理想基礎平台。
-（首圖來源：高通）

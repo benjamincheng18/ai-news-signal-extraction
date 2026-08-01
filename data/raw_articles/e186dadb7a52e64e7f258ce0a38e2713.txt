@@ -1,6 +1,0 @@
-根據《Tom’s Hardware》報導，Intel 近期承認晶圓供應不足，使 Core Ultra 200 系列的 Arrow Lake 與 Lunar Lake 處理器在市場上出現明顯缺口。兩款處理器的運算邏輯晶片皆由台積電代工，受制於晶圓分配，使整體出貨量難以提升。
-Arrow Lake 與 Lunar Lake 採用台積電 N3B 製程，封裝則由 Intel 內部完成。但據業界消息，台積電目前階製程產能長期滿載，短期內難以額外供應晶圓，使 Intel 在下單策略上更趨保守，進而無法滿足客戶端系統與 AI PC、資料中心對新平台的快速需求。
-Intel 企業規劃與投資人關係部副總裁 John Pitzer 指出：「如果我們有更多 Lunar Lake 的晶圓，我們就能賣出更多 Lunar Lake；如果有更多 Arrow Lake 的晶圓，也能賣出更多 Arrow Lake。我們對目前 AI PC 轉型的狀況感到相當樂觀。」
-消息人士指出，Intel 目前擁有足夠的 LPDDR5X 記憶體供應，可支援 Lunar Lake 的封裝式記憶體設計，短期內不會因 DRAM 價格上漲而推升 CPU 成本。不過，若晶圓供應持續緊縮，未來是否調整客戶端 CPU 價格仍是市場關注重點。
-除了 PC 產品線外，Intel 亦面臨 Xeon 6「Granite Rapids」的製程產能限制。儘管公司多年來大幅提升 EUV 投資，但目前大多數晶圓廠仍以 DUV 製程為主，能支援 Intel 7 與 10 奈米家族，真正能生產 Intel 3 的產線仍相對有限，使得伺服器端同樣出現供不應求的狀況。
-（首圖來源：英特爾）

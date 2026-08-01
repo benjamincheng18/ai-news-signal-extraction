@@ -1,8 +1,0 @@
-4 月 15 日，特斯拉首席執行長伊隆·馬斯克（Elon Musk）展示了特斯拉 AI5 處理器的首個樣品，該處理器旨在推動自動駕駛技術的發展。馬斯克在展示中意外地感謝了「TSC」而非台積電（TSMC），並聲稱 AI5 在某些情況下的性能比前一代 AI4 提升了 40 倍。
-AI5處理器的設計已完成，標誌著進入生產階段。這款處理器將支援特斯拉的全自動駕駛（FSD）計畫，馬斯克表示，AI5是實現先進自駕能力的關鍵，並透露公司正在推進AI6和Dojo 3等相關項目，以強化其AI生態系統。
-And thank you to@TaiwanSemi_TSCand@Samsungfor your support in bringing this chip to production! It will be one of most produced AI chips ever.
-— Elon Musk (@elonmusk)April 15, 2026
-
-AI5處理器採用最先進的2奈米製程，由台積電（TSMC）和三星共同生產，顯示出特斯拉的多供應商策略。這個生產鏈還與馬斯克主導的其他項目有關，包括英特爾在德州Giga工廠的Terafab計畫，該計畫支援AI5在自動駕駛、Optimus機器人（具備增強處理能力和Grok語音互動）及xAI基礎設施中的應用。
-儘管目前尚無來源確認40倍性能的具體數據或馬斯克的「TSC」口誤，但這一設計完成的里程碑與特斯拉在AI工作負載方面的快速進展相符。特斯拉的股票在公告後交易於377.61美元，根據GF Value的評估，該股被認為高估了48.5%。這個發展使特斯拉不僅限於汽車製造，還成為垂直整合AI和半導體領域的領導者。
-（首圖來源：Elon Musk）

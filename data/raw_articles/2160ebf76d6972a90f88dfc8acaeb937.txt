@@ -1,5 +1,0 @@
-根據 TrendForce 最新 Micro LED 產業研究，生成式 AI 驅動高速光通訊需求急速攀升，Micro LED 因能耗僅為 1-2 pJ/bit，且具有 ≤10⁻10 低位元錯誤率（BER），有望在垂直擴展（Scale-Up）的資料中心網路中，與 AEC（主動式電纜）、VCSEL NPO（垂直共振腔面射型雷射近封裝光學）並列機櫃內（Intra-Rack）的三大短距高速傳輸方案。因此，TrendForce 預估，Micro LED CPO 光收發模組市場產值將可於 2030 年達 8.48 億美元。
-全球供應鏈正積極布局光通訊與光互連領域，如Microsoft MOSAIC提出Micro LED CPO架構，並由聯發科（MediaTek ）提供AOC（主動式光纜）整合方案。AEC領導廠商Credo於2025年第三季收購Hyperlume，擴展光互連產品項目。新創Avicena開發超低功耗LightBundle™技術，已準備推出512 Gbps Micro LED光互連，並於2026年第二季推進至896 Gbps方案，持續提升資料傳輸效率與功耗表現。ams OSRAM 與全球領先AI資料中心基礎設施合作夥伴簽署開發協議，以推進 Micro LED光互連商業化，自主研發以Micro LED為基礎的光互連方案，目標於2027年問世，預計此解決方案將整合Micro LED 晶片、光學元件和專用ASIC。
-此外，友達（AUO）整合富采（Ennostar ）與鼎元（Tyntek ）技術，將Micro LED CPO導入玻璃RDL Interposer（重佈線層中介層）供客戶直接使用，不需另外建置巨量轉移設備。群創（Innolux ）亦有望透過bEMC（先發電光） 的優勢取得Micro LED資源，逐步建立垂直整合能力與競爭門檻。錼創（PlayNitride）則已與光循（Brillink）展開合作布局。京東方華燦光電（HC Semitek）選擇聯上海新相微電子合（Shanghai New Vision Microelectronics），發力Micro LED光互連。
-TrendForce表示，隨著多個供應商結盟成形，考量產品規格制定、送樣驗證等流程所需要的時間，預期Micro LED CPO光收發模組出貨量最快將於2028下半年明顯提升，於2030年貢獻市場約8.48億美元產值。
-（首圖來源：shutterstock）

@@ -1,8 +1,0 @@
-根據 Wccftech 報導，Intel 將於 Computex 2026 展示多項新產品布局，涵蓋掌上型遊戲裝置、資料中心、桌機與輕薄筆電市場，包括 Arc G3 掌機平台、Clearwater Forest Xeon 6+ 處理器、Nova Lake 下一代桌機平台，以及 Wildcat Lake 筆電處理器。
-其中，日前剛發表的 Arc G3 系列掌機處理器，主要瞄準 AMD 長期主導的掌機市場。該平台採用 Panther Lake 架構打造，目前包括微星（MSI）、OneXPlayer 與宏碁等品牌，均已展示相關產品。Arc G3 Extreme 最高搭載 14 核心 CPU 與 12 個 Xe3 GPU 核心，鎖定新一代 PC 掌機應用。
-在資料中心領域，Intel 預計展示已進入量產階段的 Clearwater Forest Xeon 6+ 處理器。該產品採用 Intel 18A 製程打造，整合 RibbonFET 電晶體架構、PowerVia 背面供電技術，以及 Foveros Direct 3D 與 EMIB 先進封裝技術，最高可提供 288 個效率核心。
-其中，RibbonFET 為 Intel 導入的環繞閘極電晶體（Gate-All-Around，GAA）技術，可提升電流控制能力並降低功耗；PowerVia 則將供電網路移至晶片背面，以改善供電效率與訊號傳輸表現。
-在桌機市場方面，外界也關注下一代 Nova Lake 平台是否會在 Computex 期間公開更多細節。根據目前曝光資訊，Nova Lake 旗艦型號最高可配置 52 個核心，熱設計功耗（TDP）最高達 175W，並首度整合 Xe3 與 Xe3P 圖形架構。
-另一方面，Intel 也持續推動 Wildcat Lake 平台布局。該產品主要鎖定輕薄筆電與入門級市場，強調低功耗與續航表現，未來有望進一步擴大在教育市場與平價筆電市場的布局。
-在台積電 N2 與三星 SF2 相繼推進量產之際，Intel 也透過 18A 製程迎戰下一世代先進製程競爭。隨著 Clearwater Forest 與 Panther Lake 陸續上市，市場也將觀察 Intel 能否在效能、功耗與量產能力等方面，與競爭對手一較高下。
-（首圖來源：英特爾提供）

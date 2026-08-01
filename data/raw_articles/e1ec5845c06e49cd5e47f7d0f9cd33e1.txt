@@ -1,7 +1,0 @@
-IC 設計大廠聯發科宣布，攜手歐洲太空總署（European Space Agency）、Eutelsat、Airbus Defense and Space、SHARP、工業技術研究院、Rohde & Schwarz 成功合作運用 Eutelsat 的 OneWeb 低軌衛星完成了全球首次符合 3GPP R19 規範的 5G-Advanced 衛星寬頻實網連線成功。
-
-聯發科指出，這將為5G-Advanced NR NTN（非地面網路）技術的商業部署奠定重要基礎，透過全球統一的NTN技術標準將不僅拓展衛星與行動通訊產業生態系的共通性以降低成本結構，並進一步推動全球NTN衛星寬頻裝置的普及與應用。
-聯發科表示，此次測試採用OneWeb低軌衛星與聯發科NR NTN晶片組及工研院NR NTN基地台（gNB）進行通訊，實現包含Ku頻段、50MHz頻寬、條件式切換（conditional handover，CHO）等3GPP R19規範所定義的新功能。由Airbus所打造的OneWeb低軌衛星搭載能接取Ku頻段服務鏈路（service link）與Ka頻段回傳鏈路（Ka-band feeder link）透明轉發器（transparent transponder），並採地球移動波束（Earth-moving beams）。實網測試期間，搭載由SHARP開發之平板天線（flat panel antenna）的NTN終端裝置，成功透過設置於荷蘭的歐洲太空總署歐洲太空研究與技術中心（European Space Research and Technology Centre）的閘道天線完成與地面5G核心網路的連線。
-3GPP標準的全面整合並獲得整個行動通訊產業的廣泛採納，所有相容的衛星星系將能自然且無縫地補足地面網路的需求，實現真正無所不在並帶來規模經濟效益的通訊連接，並為智慧型手機、車用及物聯網等領域開啟全新市場。
-聯發科無線通訊技術本部群資深本部總經理范明熙表示，為地面與非地面通訊領域的領導者，無論是在行動網路涵蓋有限甚至缺乏的地區，聯發科技持續以科技連結世界，致力於改善人們的生活。此次與生態系夥伴攜手合作，成功實現與Eutelsat低軌衛星實網連線，讓我們朝以3GPP為基礎的下世代NR NTN衛星寬頻通訊商用化又邁進了一步。
-(首圖來源：聯發科)

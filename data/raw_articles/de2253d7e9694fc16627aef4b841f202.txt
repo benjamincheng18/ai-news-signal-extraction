@@ -1,5 +1,0 @@
-AMD 近日技術文件首度揭露下代 Ryzen Threadripper Pro 工作站處理器的關鍵資訊，確認新平台代號為「Mustang Peak」，並轉向全新 TR6 平台。這批處理器將採用 Zen 6 架構、台積電2 奈米級製程核心，支援 DDR5 記憶體與 PCIe Gen 6，等於讓外界首次確認這條產品線的存在。
-根據公開資訊與 Tom′s Hardware 彙整，Mustang Peak 的 CPUID 為 BA0F80，資料出現在 AMD 技術資訊入口網站，確認 Mustang Peak 與 TR6 平台的存在。相較現役 Threadripper 系列，Mustang Peak 代表明顯世代升級；已知含更高規格 I/O、更大記憶體頻寬需求，以及專業工作站的高效能擴充。
-已知 Zen 6 架構（有稱為 Powderhorn 的 CCD 設計）會將每個 CCD 的核心數從 8 核提升至 12 核，使 Threadripper Pro 潛在最高核心數有機會從 96 核增加到最高 144 核，大幅提升運算規模。PCIe 6.0 導入也會讓工作站高速儲存與加速卡配置有更高頻寬，對專業創作、資料處理與 AI 應用特別重要。
-此外，技術文件與推測指出，為了匹配大幅增加的核心數與記憶體帶寬需求，Mustang Peak 與 TR6 平台可能改變記憶體通道數、MRDIMM 支援與插槽規格，但都屬推測範圍。AMD 尚未公布實際型號、核心數、功耗、價格與上市時間；不過技術文件浮現後，外界普遍預估 Mustang Peak 最早會在 2027 年中到下半亮相。
-（首圖來源：AMD）

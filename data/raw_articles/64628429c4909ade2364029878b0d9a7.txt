@@ -1,6 +1,0 @@
-根據 TrendForce 最新 DRAM 產業調查，隨著美光（Micron）計劃以 18 億美元收購力積電（PSMC）在台灣的銅鑼廠房（不含生產相關機器設備），且雙方將建立長期的 DRAM 先 進封裝代工關係，此合作案將有利 Micron 增添先進製程 DRAM 產能，並提升 PSMC 的成熟製程 DRAM 供應，預估 2027 年全球 DRAM 產業供給將有上修空間。
-
-TrendForce表示，2025年下半開始，ASIC和AI推論分別帶動HBM3e、DDR5需求，並推升整體DRAM利潤率，促使Micron加速擴充產能。本次收購PSMC銅鑼廠包括土地及廠房、無塵室，預期Micron將可在2026至2027年分批移入既有及新訂購的設備，以DRAM先進製程的前段設備為主，並於2027年投入量產。預估銅鑼一期在2027年下半年可貢獻的產能，將相當於Micron 2026年第四季全球產能的10%以上。
-據TrendForce統計，2025年第三季Micron在全球DRAM產業的營收市占率為25.7%，排名第三。2024年起AI帶動HBM、DDR5、LPDDR5X等先進製程DRAM產品需求，Micron除了持續執行美國ID1、新加坡HBM後段產能建設，便已積極向外收購廠房，以縮短產能建置時程。在銅鑼廠之前，Micron在台灣已收購AUO台南廠2座、AUO Crystal在台中的廠房，以及Glorytek的台中廠房，做為wafer probe（晶圓測試）、metallization（金屬化）、HBM TSV等各項用途。Micron亦規劃將部分新加坡NAND Flash無塵室改用於DRAM metallization。
-觀察此次銅鑼廠收購案對PSMC的意義：其現有DRAM產能主要採用25nm、38nm製程，因此其DDR4產線暫時止步於容量較小的產品。近日PSMC與Micron簽署合作意向書後，預計未來一年內將獲得Micron授權1Y nm製程，後續並有機會再取得1Z nm製程授權，可支援其提升DDR4產品容量。此舉將有利PSMC保持在consumer DRAM市場的製程競爭力，同時擴大位元產出，又不與Micron的先進產品線互相競爭。
-（首圖來源：shutterstock）

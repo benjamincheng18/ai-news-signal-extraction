@@ -1,8 +1,0 @@
-根據 TrendForce 最新研究指出， 目前 AI 筆電主要由 Intel、AMD、 Apple 與 Qualcomm 推動， 但市場仍缺乏能夠大規模展現裝置端AI運算價值， 並形成明確使用者換機誘因的產品。 隨著 Nvidia 於 Computex 正式發表 RTX Spark 平台搭配 N1 與 N1X 處理器， AI 筆電市場有望從目前以 NPU 功能展示為主的階段， 進一步邁向以 Agent 與本地端模型運算為核心的新發展階段。
-TrendForce表示，RTX Spark平台的意義不僅在於新增Windows on Arm陣營的重要成員， 更首次將CUDA生態系延伸至Windows筆電市場， 預估將快速提升AI筆電滲透率，由2025年的19.3% 與2026年的37.5%提升至2029年的84.9%。
-N1／N1X處理器由Nvidia與聯發科（MTK）合作推出， 扮演開拓高階市場的關鍵。此架構整合了高效能Arm架構CPU、 Blackwell架構GPU、CUDA生態系， 並支援最高128GB Unified Memory配置，讓硬體效能與作業系統、 專業軟體層面達到深度整合。
-受惠於裝置端算力提升，文件搜尋、簡報製作、知識庫查詢、 工作排程及部分AI Coding等應用，未來皆有機會直接於本地端完成， 降低對雲端算力與Token消耗的依賴。隨著AI Agent逐步普及，PC角色也將由被動工具轉變為主動助理， 帶動換機需求由硬體規格升級轉向應用價值升級， 成為2027年後推動筆電市場成長的重要動能。
-從AI筆電市場結構來看，目前AI筆電仍以Windows x86平台為主，其滲透率由2025年的6.8%至2026年提升至14.5%， 預估2029年將占整體市場約50.7%。相較之下， Windows on Arm AI筆電雖然目前基期較低， 但成長速度在Qualcomm與Nvidia陸續加入此陣營後將明顯加速，滲透率將由2025年的1.2% 提升至2026年的3.2%， 預期將於2029年進一步成長至11.5%， 顯示Arm架構正逐步擴大在Windows筆電市場的影響力。
-除了Windows on Arm的發展外，Apple M系列預計維持約17%左右的筆電市場占比， 持續扮演Arm架構筆電的重要組成。另一方面， 隨著Intel與AMD近年將資源逐步轉向AI筆電與高階商務機種，在Chromebook市場投入相對保守，也讓聯發科（MTK）在今年有機會透過AI Chromebook進一步擴大在Chromebook平台的滲透率。在Windows on Arm、Apple M與Chromebook系列共同帶動下， 預估2029年Arm架構筆電滲透率將達34.2%。
-TrendForce指出，在Nvidia RTX Spark平台（N1／N1X）、Qualcomm Snapdragon X以及未來更多 Arm架構晶片陸續進入市場下， Windows筆電市場將由過去以Intel與AMD雙強競爭， 逐步轉向多架構、多平台並存的新局面。
-（首圖來源：輝達）

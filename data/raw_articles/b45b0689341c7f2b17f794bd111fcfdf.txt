@@ -1,1 +1,0 @@
-Solidigm 將 Direct-to-Chip 冷板式液冷導入 SSD，以避免高速存取下的高溫效能降速；DUG 則以浸沒式液冷結合貨櫃化資料中心 Nomad，讓算力可移動、可快速部署。本篇文章將帶你了解 :OCP 2025顯示散熱正從過去局部補強，進入元件、整機到資料中心的系統性重構Meta更新DSF技術細節，加速Scale-Across發展ESUN聯盟成立，基於Broadcom的SUE 1.0，有利更多Switch IC廠商加入Scale-Up市場智邦、Celestica、明泰展示1.6Tbps Switch，預期2026年開始量產英特爾推出新GPU Crescent Island，針對Inference Prefill應用

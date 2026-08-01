@@ -1,7 +1,0 @@
-據市場傳聞，NVIDIA 與聯發科共同開發的首款 Windows on Arm 在 PC 領域處理器「N1X」，其上市時間延後至 2026 年第一季，而該晶片在GeekbenchOpenCL 的測試結果也流出。
-根據 Geekbench 數據，N1X 採用 20 核心 CPU 設計，分為兩組 10 核心叢集，建構於 NVIDIA 的 Grace 架構之上；搭載 48 個 SM（Streaming Multiprocessor），總共擁有 6,144 顆 CUDA 核心，與桌機版 GeForce RTX 5070 完全相同。
-該配置也與目前驅動 DGX Spark AI 小型伺服器的 GB10 Superchip 相符，顯示 N1X 很可能是低功耗版本，目標鎖定主流市場。
-由於這次是測試早期工程樣品，功耗與頻率會受限，且尚未搭配專屬 GDDR 記憶體，僅採用共享式LPDDR5X，因此效能仍處於早期狀態，如時脈僅 1.05 GHz，OpenCL 測試分數為 46,361，約等同於 RTX 2050 級別。
-不過 N1X 的內建顯示晶片（iGPU）仍領先當前所有整合式顯示核心，包括蘋果 M3 Max 與 AMD 890M；以架構潛力來看，RTX 5070 可達 2.5 GHz、250W TDP，而 N1X 整顆晶片受限於約 120W，仍有明顯的上升空間。
-若 N1X 如預期般在 2026 年第一季問世，有機會與新一波 AI 筆電（Windows on Arm）同步推出。目前 N1X 雖處於原型階段，但規格已與中高階獨立 GPU 對齊，若 NVIDIA 提供足夠的功耗與頻寬支援，N1X 有可能成為首款真正挑戰 x86 陣營高效能筆電市場的 ARM SoC，甚至撼動蘋果在 AI 高階筆電市場的地位。
-（首圖來源：NVIDIA）

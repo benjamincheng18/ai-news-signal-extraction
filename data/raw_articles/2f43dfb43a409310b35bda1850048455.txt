@@ -1,9 +1,0 @@
-市場調查機構 Counterpoint《2025 年第二季全球智慧手機 SoC 出貨與預測追蹤報告》 指出，2025 年有 AI 功能的智慧手機 SoC 出貨量將占全球總量的 35%，年成長達 74%。成長動能主要來自 AI 功能快速滲透各價位帶。蘋果以 46% 市占率穩居領先，高通 (Qualcomm ) 35% 居次，聯發科12% 排名第三。
-
-為鞏固領先優勢，蘋果與 OpenAI 合作，將 ChatGPT 深度整合至 iOS、 iPadOS 與 macOS，用戶能直接體驗功能。蘋果也持續開發自有生成式模型，包括一款 30 億參數的裝置端語言模型，以及可透過 Apple Silicon 伺服器的 Private Cloud Compute 存取的更大型伺服器端模型。
-Android 陣營，高通推出 AI Orchestrator，協助 OEM 專注應用與服務開發，而無需處理複雜的 LLM、硬體與軟體整合。聯發科則透過 NeuroPilot 工具組最佳化 CPU、GPU 與 NPU 的 AI 效能。兩家公司同時積極與中國智慧型手機品牌合作，以確保 SoC 高效執行 AI 模型。
-2025 年高階智慧手機 SoC 具 AI 功能的出貨量年增 53%，88% 支援裝置端 AI。蘋果 A19 與 A19 Pro、高通的 Snapdragon 8 Elite Gen 5，以及聯發科的天璣 (Dimensity) 9500 都加速 AI 高階智慧手機市場滲透。Counterpoint 研究分析師 Shivani Parashar評論，自 2024 年智慧手機 AI 快速崛起以來，高效能 AI 運算單元的競爭愈加激烈。預計到 2025 年，高階行動平台的最高 AI 效能將突破 100 TOPS，較 2021 年提升近四倍。
-隨著 GenAI 在高階智慧型手機的滲透率不斷提升，SoC 平均售價將持續上揚，主要受惠於品牌導入更先進製程，並增加 CPU、GPU 與 NPU 等半導體含量，以強化裝置端 GenAI 的支援能力。Apple 持續透過 A 系列晶片引領高階 GenAI SoC 市場，結合 Neural Engine 與深度軟硬體整合，展現高度優化的效能。另一方面，高通自 Snapdragon 8Gen 3 起穩固高階 Android 市場地位，透過 Hexagon AI 引擎提升多模態 AI 能力。聯發科則自 Dimensity 9300 系列開始積極布局，強調大核心架構設計、能效優化與進階 LLM 應用。
-300~499 美元價位帶，2025 年具 AI 功能的智慧手機 SoC 出貨量將年增三倍，市占率達 38%。高通將以 57% 的市占率領先，其次為聯發科。值得注意的是，聯發科率先透過天璣 8000系列在此價位帶導入 GenAISoC，而高通則較晚進入，推出 Snapdragon 700 系列，並開始以 Snapdragon 6 系列瞄準 100~299 美元區間的入門市場。
-Counterpoint資深分析師 Parv Sharma 表示，AI SoC 中階價位成長主要來自快速滲透，智慧手機品牌希望透過 AI 為用戶帶來更佳體驗。SoC 廠商繼續最佳化 LLM，使其能在中階裝置順利執行。未來低價位新品逐步導入 AI 功能，滲透率會再提升。
-(首圖來源：蘋果)

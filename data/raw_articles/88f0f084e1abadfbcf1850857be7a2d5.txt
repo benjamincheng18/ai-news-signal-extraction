@@ -1,7 +1,0 @@
-隨著 Google 母公司 Alphabet 擁有日益壯大的 TPU（Tensor Processing Unit）業務，加上 Google DeepMind 專注 AI 研究，投資銀行 D.A. Davidson 分析師認為，如果 TPU 業務獨立出來，整體價值可能高達 9,000 億美元，相較今年稍早估計的 7,170 億美元大幅提升。
-
-專為機器學習和 AI 工作負載打造的加速器 TPU，受到 AI 研究人員與工程師的關注。第六代 Trillium TPU自 2024 年 12 月大規模推出後，需求相當強勁。專為推論設計的第七代 Ironwood TPU在今年 Google Cloud Next 25 大會發表，預期獲得客戶大量採用。
-進一步來看，Ironwood TPU 每顆晶片在高峰可提供 4,614 TFLOPS 運算能力，驅動思考型和推論型模型。Ironwood TPU 大幅增加高頻寬記憶體（HBM）容量，每顆晶片提供 192GB 容量，是 Trillium TPU 的 6 倍，以處理更大型的模型和資料集運算；同時 Ironwood TPU 每顆晶片頻寬可達 7.2Tbps 高速存取，是 Trillium TPU 的 4.5 倍。不只如此，Ironwood TPU 效能功耗比是 Trillium TPU 的 2 倍，為客戶的 AI 工作負載提供每瓦更多的運算能力。
-合作夥伴方面，Alphabet 目前僅與博通合作生產 TPU，但傳出與聯發科探索合作機會，由聯發科為即將推出的 Ironwood TPU 代工。與此同時，多家 AI 公司加速採用 TPU，如 Anthropic 開始招聘 TPU 核心工程師，可能平衡對 AWS Trainium 晶片的依賴，馬斯克（Elon Musk）旗下 xAI 受到 JAX-TPU 工具改進下，對 TPU 展現興趣。
-D.A. Davidson 分析師認為 Alphabet 在 AI 硬體領域的價值未被充分估價，但要將 TPU 業務拆分出來，在現今環境不太可能發生，TPU 將會結合 Google DeepMind 研究實力繼續融入更多 Google 產品組合。
-（首圖來源：Google Blog）

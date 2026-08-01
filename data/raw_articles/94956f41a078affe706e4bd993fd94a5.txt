@@ -1,6 +1,0 @@
-半導體矽智財（IP）巨擘安謀（Arm Holdings PLC）執行長 Rene Haas 認為，新推的 AI 伺服器處理器「AGI CPU」將衝擊英特爾（Intel Corp.）、超微（AMD）x86 架構處理器在資料中心的主導地位。
-Wccftech 26日報導，安謀日前表示，AGI CPU這款專為AI代理人（Agentic AI）設計的晶片，採用台積電3奈米製程技術，預計到2031年可為Arm貢獻高達150億美元的年營收。
-Haas隨後接受WIRED訪問時，將此舉類比為微軟（Microsoft）開發Surface筆電、Google打造Pixel手機。他認為，實體產品的出現能強化整個架構生態系，吸引更多開發者投入。
-當被問及自建晶片是否會觸怒諸如輝達（Nvidia Corp.）等合作夥伴時，Haas表示，這對輝達執行長黃仁勳（Jensen Huang）來說其實是有利的，因為這壯大了Arm生態系的版圖。
-但Haas隨即話鋒一轉，表示若「市場上有輝達Vera晶這款優秀的產品，又有Arm AGI CPU這款同樣優異的產品，對英特爾和AMD來說絕非好事，這就是我所知道的一切。」
-（本文由MoneyDJ新聞授權轉載；首圖來源：Arm）

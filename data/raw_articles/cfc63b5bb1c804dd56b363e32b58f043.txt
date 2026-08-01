@@ -1,1 +1,0 @@
-英特爾 1 月 22 日 NEPCON Japan 展會，首度端出「Thick-Core Glass Substrate＋EMIB」實體封裝樣品，直接瞄準 AI / HPC 多晶粒整合需求。台積電CoWoS 長期供不應求下，EMIB 重新賦予「承接外溢產能」的戰略位置。本篇文章將帶你了解 :英特爾端出EMIB＋玻璃基板核心，超大封裝做得更穩更可控CoWoS產能不足成常態，ASIC更可能先嘗試用英特爾EMIB拚量產

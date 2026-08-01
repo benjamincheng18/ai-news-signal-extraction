@@ -1,7 +1,0 @@
-網通 IC 設計大廠邁威爾科技（Marvell Technology, Inc.）並未完全失去在亞馬遜（Amazon.com）的晶片設計地位，股價應聲勁揚。
-TS2 Tech、StockStory報導，花旗認為，Marvell有望在即將舉辦的拉斯維加斯消費電子展（CES）上，針對網路解決方案以及共同封裝光學（Co-Packaged Optics，簡稱CPO）相關技術展示更多應用方式。
-花旗分析師Atif Malik將Marvell投資評等設定為「買進」、目標價114美元，認為2-4月當季財報有望擊敗華爾街預期。
-Benchmark證券則在進一步調查業界消息後指出，Marvell在亞馬遜的Trainium晶片中仍保留其設計地位。這紓解Marvell可能失去超大規模雲端商設計應用（design win）的疑慮。
-Benchmark指出，Marvell並未將亞馬遜的Trainium 3與Trainium 3研發專案完全輸給世芯-KY 。相反地，Amazon把世芯列為額外支援的開發商，而 Marvell則憑藉HBM與I/O（輸入/輸出）等IP模組的優勢，依然保有其供應地位。
-Marvell 23日終場勁揚3.4%、收87.68美元，漲幅居費城半導體指數30支成分股之冠。
-（本文由MoneyDJ新聞授權轉載；首圖來源：Marvell）

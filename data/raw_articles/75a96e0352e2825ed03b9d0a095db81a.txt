@@ -1,1 +1,0 @@
-NVIDIA 6 月 1 日發表 RTX Spark 超級晶片，將 Blackwell RTX GPU、Grace CPU、CUDA 與 RTX 軟體生態系整合至 Windows PC，主打本地端 AI 代理、生成式 AI、創作與遊戲工作負載。不僅代表 NVIDIA 從 GPU 供應商進一步走向完整 PC 平台供應商，也使聯發科切入高階 AI PC 供應鏈。本篇文章將帶你了解 :NVIDIA攜手聯發科切入PC市場，AI PC競爭從CPU規格戰轉向平台生態戰AI PC短期算力經濟性不如雲端，但隱私與資料主權將成最大市場切入點

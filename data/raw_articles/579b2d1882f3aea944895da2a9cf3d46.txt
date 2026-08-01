@@ -1,9 +1,0 @@
-英特爾近日傳出向 ASML 再度下單，將 High-NA EUV 設備的採購量從一台增加至兩台。突顯公司正把資本支出重點鎖定在 14A 節點。
-“We raise our CY27E low-NA EUV units from 52 to 56 driven by 2 additional units for Intel (5 vs 3) and 2 additional units for Samsung (7 vs 5). We also raise our CY27E high- NA units from 8 to 10 with Intel increased from 1 to 2 and SK Hynix increased from 1 to 2."$ASMLpic.twitter.com/yygwDnjwv9
-— Jerry Capital (@JerryCap)September 23, 2025
-
-晶片尺寸持續推進到 2 奈米以下，傳統 EUV 已逐漸接近物理極限，高數值孔徑（High-NA）EUV 成為突破瓶頸的關鍵工具。這類設備被視為各大晶圓廠的「戰略物資」，不僅因技術地位獨特，更因其成本驚人。單台售價高達 3.7 億美元。這使得能夠承擔採購的業者必須具備強大的資金實力與穩定的客戶訂單，如三星、台積電與 SK 海力士。
-英特爾之所以敢於在此刻加大投資，背後也與近期獲得的外部資金支持有關。包括輝達注資 50 億美元，以及軟銀投入 20 億美元，讓英特爾的現金流與資本支出能力顯著增強。這筆額外資金為公司提供了難得的「喘息空間」，得以在最關鍵的節點上豪擲重金，搶佔先進製程的話語權。
-英特爾現在的目標相當明確，將重心放在 14A 製程，藉由 High-NA EUV 技術追趕甚至挑戰台積電、三星的領先地位。但風險同樣巨大。英特爾高層已公開表示，若 14A 無法成功吸引客戶採用，公司將不得不退出高端節點的競爭，屆時整個 IFS（Intel Foundry Services）事業的未來將岌岌可危。這等於把「成敗」完全押注 14A，是一場毫無退路的豪賭。
-不過，即便採購增加，設備本身是否能真正轉化為製程突破，仍存在變數。High-NA EUV 只是其中一環，良率、設計工具、生產鏈協同都將決定最終成果。對英特爾而言，未來幾年將是決定命運的關鍵窗口，市場也將持續檢驗這場高風險投入能否換來真正的翻身機會。
-（首圖來源：Intel）

@@ -1,7 +1,0 @@
-Exynos 2600是三星首款2奈米GAA製程晶片，照理說應該比舊製程有更高效能和能效，但根據最新基準測試結果，該晶片在Geekbench 6運行時峰值功耗達30W，相當於部分筆電的功耗，且相比之下，Snapdragon 8 Elite Gen 5（採台積 3 奈米）在能效上明顯優於Exynos 2600，證明台積電的製程仍領先三星。
-一位YouTube頻道TechStation365對Galaxy S26、OnePlus 15以及Motorola Signature等搭載不同晶片的裝置上進行了一系列測試，其中包括Exynos 2600。雖然Exynos 2600的表現能跟上Snapdragon 8 Elite Gen 5，但30W峰值功耗令人擔憂，顯示三星2奈米GAA製程仍需改進。
-外媒WCCFtech指出，雖然峰值功耗可能只維持幾秒，但這顯示Galaxy S26在長時間高負載運行時可能表現不佳，因Exynos 2600功耗偏高。目前還不清楚為何這款SoC在Geekbench 6中會達到30W，而Snapdragon 8 Elite Gen 5則保持在21W。
-報導推測，高功耗可能與CPU核心數增加有關，以提升多核心表現，但代價是功耗上升；或者是Geekbench 6的程式設計強制SoC達到最高頻率。
-即便在解壓測試中，Exynos 2600效率也未見改善，峰值功耗達13W，而Snapdragon 8 Elite Gen 5與Snapdragon 8 Gen 5均低於5W。經過多次測試並計算平均值後，TechStation365認為Exynos 2600存在「功耗不足」問題，因為這10核心需要更多電力才能達到最佳效能。
-
-（首圖來源：shutterstock）

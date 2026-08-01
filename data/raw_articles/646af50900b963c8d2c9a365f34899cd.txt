@@ -1,6 +1,0 @@
-OCP 全球高峰會（2025 OCP Global Summit）於美國聖荷西盛大登場，華碩這次參展推出搭載 NVIDIA HGX B300 平台的全新 XA NB3I-E12 系列 AI 伺服器，並與內建 NVIDIA GB300 NVL72 的 ASUS AI POD 同步出貨，為 2025 下半年營收挹注動能。
-
-全新 XA NB3I-E12 伺服器配備嵌入式 CX8 InfiniBand、5 個 PCIe 擴充槽、32 個 DIMM 和 10 個 NVMe，能夠充分發揮 AI 潛力，協助企業與雲端服務商落實數位轉型。
-華碩也展示以 NVIDIA Blackwell 架構打造的ASUS AI Factory，整合頂尖硬體、軟體平台與專業服務，確保 AI 工作負載從邊緣裝置到大規模 AI 超級運算環境都能部署，支援生成式 AI、自然語言處理及預測性分析等多元應用。ASUS AI Factory 搭配華碩自家伺服器、機架式 AI POD 等硬體，可降低建置複雜性，妥善分配運算資源，加速發展 AI 所需的擴充力。
-參展現場還有內建 AMD EPYC 9005 處理器的系列伺服器，包括完全相容 NVIDIA RTX PRO 6000 Blackwell GPU 的 ESC8000A-E13X 伺服器，針對每個 QSFP 連接埠提供 400G InfiniBand / 乙太網路，兼具超低延遲和高頻寬連線；為 HPC、EDA 和雲端運算而生的 RS520QA-E13 伺服器，不僅每個節點都能支援多達 20 個 DIMM 插槽，也擁有先進 CXL 記憶體擴充、PCIe 5.0 和 OCP 3.0，執行高負載作業事半功倍。已經在台上市的全新 Ascent GX10桌上型 AI 超級電腦，也在展出項目。
-（首圖來源：華碩）
