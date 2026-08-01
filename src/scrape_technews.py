@@ -11,6 +11,7 @@ import time
 from datetime import datetime
 from pathlib import Path
 import hashlib
+import os
 
 from universe import get_scoped_universe
 
@@ -156,7 +157,7 @@ def scrape_category(category_slug: str, scoped_universe: pd.DataFrame,
 
 def save_articles(articles: list[dict], output_dir: str):
     """Side effects: writes .txt per article + metadata_index.csv, deduped by URL"""
-    deduped = list({a['url']: a for a in articles}.values())
+    deduped = list({(a['url'], a['tickers']): a for a in articles}.values())
 
     Path(output_dir).mkdir(parents=True, exist_ok=True)
     metadata = []
@@ -184,6 +185,35 @@ def save_articles(articles: list[dict], output_dir: str):
         metadata_df = pd.concat([existing, metadata_df]).drop_duplicates(subset='filename', keep='last')
 
     metadata_df.to_csv(index_path, index=False)
+
+
+def rebuild_ticker_associations(raw_articles_dir: str, universe: pd.DataFrame) -> pd.DataFrame:
+    """
+    Fixes the dedup bug by re-deriving full ticker matches per article
+    directly from saved text files, instead of trusting the lossy
+    metadata_index.csv ticker column.
+    """
+    txt_files = [f for f in os.listdir(raw_articles_dir) if f.endswith('.txt')]
+    old_metadata = pd.read_csv(f"{raw_articles_dir}/metadata_index.csv")
+
+    rows = []
+    for filename in txt_files:
+        with open(f"{raw_articles_dir}/{filename}", "r", encoding="utf-8") as f:
+            text = f.read()
+        matched = matches_ticker(text, universe)
+        meta_row = old_metadata[old_metadata['filename'] == filename]
+        if meta_row.empty:
+            continue  # shouldn't happen, but skip defensively
+        for ticker in matched:
+            rows.append({
+                "filename": filename,
+                "tickers": ticker,
+                "title": meta_row.iloc[0]['title'],
+                "url": meta_row.iloc[0]['url'],
+                "publish_date": meta_row.iloc[0]['publish_date']
+            })
+
+    return pd.DataFrame(rows)
 
 
 if __name__ == "__main__":
