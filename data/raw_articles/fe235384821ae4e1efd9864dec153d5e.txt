@@ -1,0 +1,6 @@
+日本半導體大廠瑞薩電子（Renesas Electronics）推出邊緣 AI 用 MCU 產品，AI 性能提高至 30 倍，並委由台積電生產、採用台積電 22 奈米（nm）製程。
+瑞薩2日宣布，開賣邊緣AI用MCU產品「RA8P1」、並開始進行量產，其推論處理性能提高至現行產品的30倍以上。
+瑞薩指出，RA8P1藉由將1GHz Arm Cortex-M85和250MHz Cortex-M33 CPU核心、與Arm Ethos-U55 NPU相結合，實現了業界最高等級的7,300 CoreMark CPU性能以及256 GOPS（Giga Operations Per Second）AI運算性能。
+瑞薩指出，RA8P1委由台積電代工、採用台積電22奈米ULL（Ultra-low Leakage）製程，兼顧高處理性能和低功耗。該製程支援在MCU中使用磁阻式隨機存取記憶體（MRAM），和Flash Memory相比，MRAM具有更快的寫入速度、並提升耐久性和數據保留能力。
+瑞薩2日大漲2.43%、收1,815日圓；今年迄今瑞薩股價累計下挫約11%。
+（本文由MoneyDJ新聞授權轉載；首圖來源：瑞薩）

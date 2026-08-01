@@ -1,0 +1,7 @@
+高通今（24 日）在夏威夷 Snapdragon 高峰會推出專為超頂級Windows PC打造的最新平台Snapdragon X2 Elite Extreme和Snapdragon X2 Elite，搭載Snapdragon X2 Elite系列的裝置預計2026年上半年上市。
+Snapdragon X2 Elite系列同樣採台積電N3P製程，搭載高通自製第三代Oryon CPU，提供超高階效能與卓越的能效表現。其中，Snapdragon X2 Elite Extreme擁有最多18核心，是首款達到5.0 GHz的Arm相容CPU。高通指出，這個時脈速度，搭配硬體矩陣加速與超低延遲大型快取，能在多工處理、網頁瀏覽及內容創作上，帶來創紀錄的即時反應速度。
+其中，在相同功耗（ISO power）下，第三代Oryon CPU相較前一代效能提升高達31%、功耗減少43%，CPU效能比競爭對手快75%；Adreno GPU架構在每瓦效能與功耗效率方面也比前一代提升2.3倍，時脈最高可達 1.85 GHz；Hexagon NPU具備80 TOPS AI運算能力，與前一代相比，其 TOPS（INT8）提升 78%，可在Copilot+ PC中實現AI協同體驗。
+高通指出，Snapdragon X2 Elite Extreme專為專業人士使用，具備極致效能、長達多日的電池續航力與極速的AI運算能力，能處理代理式AI體驗、運算密集型數據分析、專業媒體剪輯與科學研究等複雜且專業級的工作負載，是Windows PC上最快、最強大、最高效的處理器。
+此外，Snapdragon X2 Elite 推出一項新管理功能「Snapdragon Guardian 技術」，該子系統結合硬體、軟體與雲端服務，並搭配 Wi-Fi 與 5G 連線，使企業與終端使用者幾乎可以在任何地方管理、定位、鎖定及清除他們的筆電。
+高通資深副總裁暨運算與遊戲部門總經理Kedar Kondap表示，Snapdragon X2 Elite強化在PC產業的領先地位，透過在效能、AI運算與電池續航力上實現里程碑式的躍進，為消費者打造應享有的卓越體驗。高通將持續突破技術創新的界限，推出樹立全新產業標準的突破性產品，並重新定義PC的無限可能。
+（首圖來源：高通）

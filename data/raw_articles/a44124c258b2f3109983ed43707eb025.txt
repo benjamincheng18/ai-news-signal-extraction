@@ -1,0 +1,8 @@
+電競筆電市場長久以來被 NVIDIA 壟斷。雖然 AMD 在桌面端推出的 9000 系列 GPU 頗具競爭力，但還是無意挑戰 NVIDIA 在行動端的霸業，也造成 NVIDIA 在電競筆電市場一家獨大的狀態。然而英特爾 Panther Lake 的問世說不定有望撼動這樣的局面，究竟是為什麼？
+
+原因就是Panther Lake搭載的B390已被證實是Intel有史以來最強的內顯，當然其圖形顯示能力相較於GPU堆料程度更大的AMD Strix Halo還是處於弱勢，但Strix Halo本身的定位和定價都更高，所以也不算是Panther Lake真正的對手。然而在面對同位階的Strix Point和Kraken Point，Panther Lake已經展現了極具統治力的內顯表現，所以市場上也開始對Panther Lake有更多的想像。
+雖然首波搭載Panther Lake的筆電還是以文書機或是商務機居多，但據傳華碩原本有意讓其知名輕薄電競機種西風之神G14採用並捨棄NVIDIA的獨顯。雖然華碩並未證實此傳聞，但也代表其內顯的效能已經被OEM認可，再加上英特爾在CES也同步發表了一系列自家的遊戲優化技術如XeSS 3和XeSS Frame Generation，遊戲體驗更上一層樓。
+OEM願意在電競機種上單獨採用Panther Lake所帶出另一個很重要的訊息就是成本結構不會輸具備獨顯的入門電競機種。雖然入門電競機種多採用較便宜的處理器以降低成本如Raptor Lake或是Raptor Lake Refresh，Panther Lake並無優勢。但額外的獨顯加上VRAM以及週邊電子料的成本堆疊已經足以讓Panther Lake的成本相較之下具備一定的競爭力。
+如果最大的障礙─也就是價格的問題解除了，剩下的就是市場接受度的問題了，但說來殘酷，這可能也是Panther Lake在進軍入門電競市場最大的問題。原因就是「Intel Graphics」一詞對大部分的PC玩家來說還是很陌生，因為當代的PC Gaming幾乎要和NVIDIA畫上等號了。且NVIDIA獨大後也不是廢在那邊，還是持續在優化驅動和遊戲體驗，好比於CES期間再發表了DLSS 4.5，宣稱其升幀之後的畫質更好，並且將多幀生成的遊戲幀數再往前推進到六倍。
+儘管如此，筆者還是認為未來在入門電競市場還是會看到越來越多Panther Lake only的機種。因為相較於獨顯機種較高的整體功耗，只有CPU的機種瓦耗低得多，也更容易塞進更輕薄的機身，再加上Panther Lake優異的能效表現，系統的續航勢必也會比入門電競機種來的更好。如果這些作為筆電好壞的重要指標Panther Lake皆有優勢，那就更有理由看到這些Panther Lake only的電競機種逐漸嶄露頭角。
+（首圖來源：英特爾）

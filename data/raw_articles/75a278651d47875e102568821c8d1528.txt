@@ -1,0 +1,15 @@
+AI 資料中心叢集規模持續擴大，資料搬運需求隨之大增，傳統銅線互連已達到物理極限。CPO（共同封裝光學）被視為下一代 AI 基礎設施的關鍵互連方案之一。台積電 COUPE 平台預計 2026 年進入量產，代表 CPO 正式從實驗室走向商業化。然而，在關鍵的 CPO 檢測環節，目前仍缺乏統一標準，且測試過程仰賴人工操作，成為 CPO 晶片量產的一大瓶頸。
+共同封裝光學 (Co-Packaged Optics, CPO) 將光學元件整合至光子積體電路 (Photonic Integrated Circuit, PIC)，再與傳統積體電路 (Electrical Integrated Circuit, EIC) 共同封裝在同一顆晶片內，以光路取代電路，降低功耗與延遲。由 PIC 與 EIC 鍵合而成的元件稱為光引擎 (Optical Engine, OE)。
+有別於傳統 EIC 測試單純以電學為主，PIC 包含光耦合器 (Coupler)、調變器 (Modulator)、光檢測器 (Photonic Detector, PD)、光濾波器 (Optical Filter)、光波導 (Optical Waveguide) 等大量光學元件；OE 則需涵蓋電學、光學及光電交互影響的理論基礎，大幅提升測試複雜度。
+台積電 COUPE (Compact Universal Photonic Engine) 採用 SoIC Face-to-Face (F2F) 堆疊技術，將 EIC 透過 Hybrid Bonding 直接鍵合至 PIC 上方，並整合淺介質通孔 (TDV)、嵌入式微透鏡 (Microlens) 與金屬反射鏡 (Metal Reflector)。
+PIC 需要檢測插入損耗 (Insertion Loss, IL)、偏振依賴損耗 (Polarization Dependent Loss, PDL)、光響應度(Responsivity)、波導傳播損耗 (Waveguide Propagation Loss)、光路串擾 (Crosstalk) 等指標，但目前尚無統一的檢測標準。
+另一項挑戰是光學探針的精準對位。
+光耦合 (Coupling) 技術將來自光纖的外部光線導入 OE 內的光波導 (Optical Waveguide)。然而，單模光纖纖芯的截面積約 78.5µm2，光波導截面積約僅 0.099µm2，兩者截面積相差近 800 倍，若無法進行 nm 級的精準對位，將產生龐大的耦合損耗。
+所以，光學探針的光纖陣列需要與晶圓或晶片表面維持一定間距，並細緻調整相對於 Coupler 的角度，以最大化光功率傳輸，且須在不同波長區間逐一檢測。如此精細的操作目前仍仰賴人工，平均一顆 PIC 全檢 (100% Inspection) 約需 100 秒以上，成為 CPO 晶片量產的關鍵瓶頸。
+在CPO 晶片製程中，檢測層級包含：
+(1) PIC 晶圓級測試：電、光直流測試，如功率、損耗、暗電流等基礎光學測試。(2) EIC-PIC 晶圓級測試：電光 (E/O)、光電 (O/E)、光光 (O/O) 等調變功能測試、高速測試、S 參數測試。(3) OE 級測試：全流程校準、直流測試、高速測試、光環回測試、S 參數測試。為確認良好光引擎 (Known Good Optical Engine, KGOE) 的關鍵節點。(4) 先進封裝模組級測試：全系統功能驗證、光環回測試。
+其中，PIC 晶圓級測試（Wafer Acceptance Test, WAT；亦稱 OWAT）最關鍵，因為 PIC 通常採用成熟製程節點，但 EIC 一般採用先進製程節點，若可以在 PIC 晶圓上就檢測出不良的 PIC，避免不良的 PIC 與昂貴的 EIC 鍵合，就能大幅減少 EIC 報廢以及後續的製程損失。
+由於晶片設計愈趨複雜，SoC 測試難度大幅提升，單一晶片的測試站點與檢測時間持續增加，推升測試設備在整體半導體生產設備 (Semiconductor Production Equipment, SPE) 資本支出的佔比。預期在 CPO 晶片加入產品組合的情況下，半導體業對測試設備的資本支出將進一步提升。
+從供應商的競爭格局來看，傳統 EIC 自動化測試設備 (Automated Test Equipment, ATE) 市場由 Advantest 與 Teradyne 壟斷。由於開發 CPO 測試設備需要同時具備 EIC、PIC 檢測技術，兩大廠商近年積極與 PIC 探針技術廠商合作：Advantest 與 FormFactor 合作，Teradyne 則於 2025 年收購 Quantifi Photonics，並與 ficonTEC 合作。同時，台灣廠商也積極地驗證相關產品。
+
+更多全球設備商技術發展與動態細節，請參考CPO測試挑戰與台灣供應鏈解析報告。

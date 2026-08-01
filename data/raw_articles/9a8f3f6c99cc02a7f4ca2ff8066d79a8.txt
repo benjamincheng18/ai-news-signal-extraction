@@ -1,0 +1,11 @@
+根據《Tom’s Hardware》報導，AMD 近日於 CES 發表的新一代行動處理器 Ryzen AI 400 系列，上市時間可能比市場預期更早。中國電商平台最新曝光的產品資訊顯示，Ryzen AI 400 有望於 1 月 22 日率先登場，比 Intel 推出的 Panther Lake 平台提前約五天。
+此次時程線索來自華碩中國在京東官方商城提前上架的產品頁面。該頁面顯示，一款名為 Lingyao 16 Air 的輕薄筆電將於 1 月 22 日開賣，處理器標示為 Ryzen AI 7 445。Ryzen AI 400 系列的產品代號為 Gorgon Point，屬於 AMD 針對既有 Ryzen AI 300 平台進行的小幅更新，而非全新世代架構。
+ASUS’s AMD Ryzen AI 400 Laptop
+CST 2026/01/22 21:00pic.twitter.com/NsRuJ9RNwL
+— Ruby_Rapids (@RubyRapids)January 13, 2026
+Lingyao 16 Air 配備 32GB 記憶體與 1TB SSD，採用 2.8K OLED 顯示器，最高亮度達 1,100 nits，支援 120Hz 更新率，整機重量僅 990 公克，主打高階輕薄定位。
+處理器方面，Ryzen AI 7 445 為 6 核心、12 執行緒設計，最高加速時脈 4.6GHz，L3 快取容量為 14MB，內建 4 個 RDNA 3.5 運算單元（Compute Units），並透過 XDNA 2 NPU 提供最高 50 TOPS 的 AI 運算能力。
+值得注意的是，儘管命名為 Ryzen AI「7」等級，Ryzen AI 7 445 卻是 AMD 首款未採用 8 核心配置的 Ryzen 7 系列產品。
+除行動平台外，AMD 亦規劃將 Ryzen AI 400 導入桌上型市場，做為 Ryzen 9000G 的後繼主流 APU 產品線，並首度在桌機 Ryzen 處理器中導入 NPU。
+相較之下，Intel 尚未公布 2026 年桌機處理器規畫，短期內 AMD 有望率先搶占具備 AI 運算能力的桌機 APU 市場。
+（首圖來源：AMD）

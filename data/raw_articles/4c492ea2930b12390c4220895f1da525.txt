@@ -1,0 +1,11 @@
+隨著AI資料中心快速擴張，內部大量ASIC、GPU與負責協調運作的CPU成為更加重要的一環。市場消息傳出，Google已委託Marvell為下一代TPU設計客製化網路晶片，並將採用英特爾的先進製程技術生產。
+根據Funda AI的消息、社群平台X知名爆料人士Jukan的說法，Google已委託Marvell為其TPU平台開發專屬網路晶片。
+Funda AI: “Marvell will design a networking chip for Google. This chip will be manufactured on Intel’s 18A (or 18AP), with mass production scheduled to begin by the end of 2027, and it will be paired with the MediaTek-designed Humufish for Google."$INTC
+— Jukan @COMPUTEX (@jukan05)June 3, 2026
+
+由於台積電先進製程產能持續吃緊，市場推測這款客製化網路晶片將改由Intel 18A/18AP製程，兩者皆為英特爾目前最重要的製程節點。報導稱，這款網路晶片預計將於2027年底進入量產階段，並有望搭配Google下一代代號為「Humufish」的TPUv8e一同推出。
+從目前TPUv8e分工來看，Google負責TPU主運算晶片（Main Die）設計，聯發科負責I/O與後端設計，英特爾負責晶片製造與EMIB先進封裝，Marvell負責客製化網路晶片設計。
+針對此事，博通執行長陳福陽在最新的財報會議中也承認，大客戶Google正尋求晶片供應商多元化。他坦言早已料到Google將尋求多元化採購來源，儘管雙方簽有重大的長期合約承諾。
+目前Google已在全球至少11個資料中心區域部署TPU基礎設施，其中還包含兩個專門針對AI工作負載打造的「AI Zone」。
+對Marvell而言，若成功拿下Google TPU網路晶片設計案，將是近期AI業務發展的另一項重大勝利。先前輝達執行長黃仁勳站台Marvell執行長Matt Murphy主題演講，並表示公司有機會成為「下一家市值突破1兆美元的企業」，隨後當天股價便大漲超過32%。
+（首圖來源：Marvell）

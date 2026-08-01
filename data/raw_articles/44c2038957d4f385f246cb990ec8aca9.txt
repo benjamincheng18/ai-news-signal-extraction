@@ -1,0 +1,9 @@
+在 AI 崛起的年代，NPU（Neural Processing Unit, 神經處理器）的重要性似乎越來越高，去年 AI PC 也是靠著 NPU 聲勢一路高漲。
+
+但截至目前至少在PC端，NPU的應用還是相當地少。即使有也幾乎都是些雞肋的應用好比網路攝影機優化或是低解析度的文生圖，所以NPU對大部分的使用者來說就是一個存在於電腦內但使用率永遠是0的處理單元。
+然而，AMD這時卻做了件令人費解的事：把NPU塞進掌機用處理器Z2 Extreme，成為另一個Z2家族的新成員Z2 AI Extreme。既然NPU的應用已經在身兼工作用途上的PC上付之闕如，那放進以電競為主要訴求的掌機上不是更緣木求魚？
+第一台搭載這顆內建NPU的掌機處理器的掌機──XBOX Ally給出了答案──就是讓內建的NPU支援遊戲內的Auto SR（Automatic Super Resolution）。Auto SR的概念其實和當今遊戲界流行的DLSS或是XeSS類似，就是讓GPU渲染出解析度較低的遊戲畫面，再透過AI拉高解析度，以達到高遊戲幀數和高畫質的雙贏目的。
+NPU在Auto SR裡面的角色，其實就是NVIDIA GPU裡面的Tensor Core或是Arc GPU裡面的XMX單元，負責協助AI以提升遊戲解析度。相較於DLSS或是XeSS，Auto SR最大的優勢就是不需要遊戲額外支援，微軟表示只要系統內建NPU，且算力超過40 TOPS（Copilot+ PC），搭配Windows 11 24H2以上的版本即可支援。如此一來即便是像掌機這樣原生圖形能力有限的系統，也能夠提供流暢的遊戲體驗。
+其實Auto SR也不是新玩意兒，早在去年微軟推出Copilot+ PC的時候就已提到，只是當時僅Snapdragon X系列處理器支援，但ARM架構處理器的遊戲效能實在太差，所以才甚少被人提及；但現在隨著XBOX也和華碩合作推出了自己的掌機並選用Z2 Extreme處理器為主要算力來源，不支援自家的Auto SR好像也說不過去，再加上微軟和AMD的關係一直不錯，所以AMD才把NPU放回Z2 Extreme變成Z2 AI Extreme。
+所以Z2 AI Extreme之後就會一統掌機市場嗎？似乎也未必，已經在販售的微星Claw A8和剛發表的聯想Legion Go 2都還是採用Z2 Extreme。且就算Z2 Extreme不支援Auto SR，也還是支援AMD自己的FSR或是英特爾的XeSS（DP4a fullback模式），且玩家更為熟悉。但至少NPU對PC──特別是沒有獨立GPU的PC來說有了相對比較實用的應用，也希望身為軟體大家長的微軟能夠多多推出類似的功能，讓PC上的NPU不再只是個雞肋。
+（首圖來源：shutterstock）

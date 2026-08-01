@@ -1,0 +1,11 @@
+根據外媒 Wccftech 報導，全球 IC 設計自動化軟體（EDA）龍頭新思科技（Synopsys）宣布，旗下 LPDDR6 記憶體介面 IP 已於台積電N2P 製程 完成晶片上機測試（silicon bring-up），象徵新一代低功耗行動記憶體技術邁入關鍵驗證階段。該設計在測試中實現 86 GB/s 頻寬，符合國際半導體標準協會（JEDEC）最新 LPDDR6 規範，顯示此技術已能在先進製程環境中穩定運作。
+We’ve successfully achieved silicon bring up of our LPDDR6 IP on TSMC N2P, delivering up to 86GB/s bandwidth. Power next-gen mobile, AI, and edge systems with efficient LPDDR SDRAMs. Learn more:https://t.co/x7MVWMFzybpic.twitter.com/23tR9jeaTJ
+— Synopsys (@Synopsys)October 16, 2025
+
+新思科技主要提供晶片設計所需的模擬、驗證與授權模組。此次完成矽測的 LPDDR6 IP 包含控制器（controller）與實體層介面（PHY interface）兩部分。控制器負責 JEDEC 協定與時序管理，而 PHY 則建構於台積電 N2P 的金屬堆疊與 I/O 函式庫之上，確保在高頻操作下仍維持低功耗與訊號完整性。
+所謂「silicon bring-up」，是指晶片設計在完成軟體模擬後，首次於實體晶圓上上電驗證的階段。這代表 IP 模組的電路架構已經進入實體測試，但尚未整合至完整系統晶片中。新思科技表示，此次驗證結果顯示 LPDDR6 控制器與 PHY 在 N2P 製程上能達到預期性能，為後續客戶導入 SoC 設計奠定基礎。
+目前市場主流仍以 LPDDR5／LPDDR5X 為主要規格，應用於智慧型手機與筆電平台。這些記憶體顆粒由三星（Samsung）、SK hynix、美光（Micron）等廠商以自家製程生產，強調高速與低功耗。LPDDR6 則是由國際半導體標準協會 JEDEC（Joint Electron Device Engineering Council）制定的新一代行動記憶體標準，傳輸速率最高可達 14.4Gb/s，能大幅提升 AI 手機與邊緣裝置的資料處理效率。
+根據 Synopsys 說法，該 LPDDR6 IP 可支援每腳位速率 10.667Gb/s，理論峰值可達 14.4Gb/s（約 115GB/s 頻寬），比 LPDDR5 世代提升超過 30%。憑藉台積電 N2P 製程的高密度與低功耗特性，新技術可望應用於 AI 手機、邊緣運算裝置與超輕量筆電，成為支撐裝置端 AI（on-device AI）運算的新基礎。
+業界觀察指出，新思科技與台積電在 N2P 節點上完成 LPDDR6 IP 驗證，象徵 SoC 廠商將能更快導入新一代記憶體標準。未來在系統介面相容性與驗證流程 上，台積電與 EDA 業者的主導力將明顯提升。隨著 SoC 製程與控制 IP 若以台積電為主流，記憶體廠必須確保自家 LPDDR6 顆粒能完全相容，測試與認證成本也將提高。
+目前 LPDDR6 技術仍處於 IP 驗證階段，預計 2026 年正式導入商用平台。隨著新思科技與台積電持續擴大先進製程 IP 布局，行動記憶體標準正邁向 10Gb/s 時代，而晶圓代工與 EDA 生態在未來行動運算的影響力，將進一步超越傳統記憶體廠，成為驅動新世代 AI 平台的關鍵力量。
+（首圖來源：新思科技）

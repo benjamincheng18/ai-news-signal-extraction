@@ -1,0 +1,10 @@
+台積電（TSMC）近日上傳一支罕見飛行影片，展示美國亞利桑那州 Fab 21 工廠運作，讓外界一窺 N4 / N5 製程。可看到數百台高科技設備製造晶片，特別是 ASML 極紫外光（EUV）曝光機，負責生產輝達（Nvidia）Blackwell B300 處理器等複雜電路。
+影片開頭展示「銀色高速公路」，指台積電自動化物料處理系統（AMHS），由懸空軌道組成，運輸裝有300mm（12吋）晶圓的前開式晶圓傳送盒（Front Opening Unified Pod，FOUP）。這些FOUP在工廠流動展示高產量製造環境維持生產週期的關鍵物流。
+I like how$TSMposted a video about its new Arizona Fab, where they explain how chips are made using EUV equipment from$ASML, and they even include small clips provided by$ASML.
+“to be able to do this is incredibly difficult. We are using extreme ultraviolet technologies…pic.twitter.com/0iUqR13Z8J
+— Bourbon Capital (@BourbonCap)September 7, 2025
+
+ASML EUV（Twinscan NXE:3600D）描繪成在晶圓上「印刷」圖案，光源是由二氧化碳雷射激發錫靶產生的等離子體，產生13.5nm波長光，能單次曝光做到約13nm半間距解析度，顯示EUV先進程度。
+影片強調EUV面臨的挑戰，包括幾奈米內重疊精度（NXE:3600D為1.1nm）和隨機效應等問題。儘管未拍到晶圓階段和光罩，但關鍵組件在Fab 21的EUV設備無疑也在。
+台積電Fab 21第一階段為蘋果、AMD和輝達等生產晶片，並計劃建造Fab 21第二階段，生產N3和N2系列晶片。台積電執行長魏哲家最近暗示，升級計畫將加速，以應付客戶AI需求的強勁增長。
+（首圖來源：台積電）

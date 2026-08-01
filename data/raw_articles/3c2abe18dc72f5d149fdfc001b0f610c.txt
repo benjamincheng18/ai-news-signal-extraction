@@ -1,0 +1,7 @@
+中媒 IT 之家報導，據 Counterpoint Research發布報告並預測，AI ASIC 伺服器對 HBM 記憶體的需求，到 2028 年將達 2024 年的 35 倍，同時平均 HBM 記憶體容量也將成長近 5 倍。
+依市場參與者來看，AI ASIC陣營HBM需求的最重要推動者是Google與其TPU晶片，整體的強勁持續增長正是由Google更積極的路線圖規劃提供支持。Google一家就能吃掉陣營內部58.5%的HBM占比，此外20.3%由亞馬遜占據。
+（Source：Counterpoint Research，下同）
+儘管從HBM4開始HBM市場逐漸向定制化發展，但HBM3E仍將是AI ASIC陣營的主力高頻寬記憶體品類，市場占比達到56.3%。另一方面，HBM4與HBM4E合計可占到2028年市場的37.7%。
+
+機構分析師認為，三星電子有望從SK海力士手中收復HBM記憶體市占；而在異構整合技術方面，台積電CoWoS依舊占據主導地位的同時，英特爾代工的EMIB-T先進封裝技術也逐步進入AI ASIC市場參與者的視野。
+（本文由MoneyDJ新聞授權轉載；首圖來源：shutterstock）

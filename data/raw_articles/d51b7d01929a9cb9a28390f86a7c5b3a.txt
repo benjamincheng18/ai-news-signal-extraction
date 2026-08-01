@@ -1,0 +1,11 @@
+馬斯克（Elon Musk）近日造訪英特爾位於美國奧勒岡州的晶圓廠，該廠主要負責生產採18A製程的下一代Panther Lake處理器與其他先進晶片的重要基地。
+英特爾近期好消息不斷，不僅傳出成功拿下蘋果代工合作，旗下最先進的奧勒岡晶圓廠也迎來馬斯克的參訪。
+根據馬斯克貼文，他參觀了英特爾最先進的奧勒岡晶圓廠。該廠隸屬於英特爾晶圓代工部門（Intel Foundry），目前正利用18A製程生產包括Panther Lake CPU在內的頂尖晶片。
+隨著AI市場對英特爾自家CPU的需求增加，該公司晶圓代工部門也吸引越來越多大型客戶。目前英特爾已宣布參與TeraFab計畫，其14A製程也有機會導入xAI下一代AI晶片。
+奧勒岡晶圓廠是英特爾最大的研發與製造中心，擁有超過22,000名員工。市場推測，馬斯克此行是與英特爾執行長陳立武會面，可能進一步討論雙方合作規劃。
+目前xAI的主要晶片供應商仍為台積電，且近期才剛完成AI5晶片投片（tape-out）。但隨著AI晶片需求持續爆發，台積電先進製程產能已相當吃緊，難以全面滿足所有AI客戶需求。
+特斯拉先前也透露，下一代AI6與AI6.5晶片將採取美國本土生產策略，分別交由三星德州廠與台積電亞利桑那州廠負責製造。
+It was an honor to be shown the awesome@Intelfab in Oregon this week. Looking forward to a great partnership with@SpaceX&@Tesla!
+— Elon Musk (@elonmusk)May 8, 2026
+
+（首圖來源：X）

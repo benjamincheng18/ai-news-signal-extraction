@@ -1,0 +1,8 @@
+美系外資摩根士丹利（大摩）出具最新外資報告，分享CPO（共封裝光學）在Scale-out和Scale-up的最新進度，認為CPO雖處於早期發展，但仍持樂觀態度，並看好相關台系供應鏈。
+在Scale-out CPO部分，大摩認為NVIDIA仍是先行者，去年NVIDIA推出Quantum與Spectrum CPO交換器，並於今年CES將Spectrum定為Vera Rubin NVL72機櫃標準規格。
+大摩預期，2026年光引擎（optical engine）出貨量將達60萬至100萬顆，交換器出貨量約2.3萬台（受限組裝交期），其中Spectrum為關鍵產品；展望2027年，預期下一代Quantum交換器將開始放量。
+除了NVIDIA外，博通已推出首款102.4T CPO交換器Davisson平台，預計2026年下半年開始出貨。
+至於在Scale-up CPO部分，大摩預期NVIDIA可能為Rubin Ultra NVL144推出CPO版本，並由Quantum 做為NVLink GPU互連方案，支援GPU對GPU通訊。此外，下一代GPU的Optical I/O解決方案亦在研發中。
+以產能來看，大摩表示，台積電目標是2027年第一季達成每月1萬片的積體光路（PIC）晶片產能，以支援強勁CPO需求，預期NVIDIA為主要使用者；另一方面，AMD預計於2027至2028年推出MI550或MI650機櫃系統的scale-up CPO版本。
+同時大摩也觀察到ASIC廠商正探索在GPU上導入CPO的可能性。大摩認為，雖然CPO仍處於早期階段，但仍持樂觀看法，並對台積電、日月光、京元電、上詮、萬潤及致茂評級「優於大盤」評等。
+（首圖來源：shutterstock）

@@ -1,0 +1,8 @@
+AMD 主打高快取遊戲效能的 Ryzen 5 5500X3D 近日已在中國市場上架。這款處理器採用台積電7nm FinFET 製程、Zen 3 架構並導入 3D V-Cache，是目前定位較入門的 X3D 型號之一。
+根據爆料人士 @realVictor_M 指出，Ryzen 5 5500X3D 為 6 核心 / 12 執行緒設計，基礎時脈 3.0GHz、最高 Boost 時脈 4.0GHz，TDP 為 105W。最大特色在於搭載 3D V-Cache，總 L2+L3 快取容量達 99MB（32MB + 64MB L3）。相較非 X3D 版本 Ryzen 5 5500 僅 16MB L3 快取，在遊戲場景下具備明顯優勢。
+R5 5500X3D available in Chinapic.twitter.com/eVphHUEOT7
+— 孤城Hardware (@realVictor_M)February 28, 2026
+
+效能方面，5500X3D 在多執行緒應用中優於標準版 5500，而在遊戲負載下提升幅度更為顯著。整體遊戲表現預期接近 Ryzen 7000 系列非 X3D 處理器水準，部分遊戲甚至可與 Ryzen 9600X 或 9700X 互有勝負。
+至於售價方面，官方尚未公布中國市場建議價格。不過先前通路資訊曾顯示，其定價可能落在 200 美元以下區間。
+（首圖來源：AMD）

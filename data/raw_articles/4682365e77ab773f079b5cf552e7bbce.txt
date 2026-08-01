@@ -1,0 +1,9 @@
+Super Micro Computer, Inc. 為 AI、雲端、儲存和 5G／邊緣領域的全方位 IT 解決方案供應商，宣布擴大製造產能、強化液冷技術，並與 NVIDIA 合作，推動 NVIDIA Vera Rubin 與 Rubin 平台最佳化資料中心級解決方案率先上市。加速與 NVIDIA 開發與合作，Supermicro 能更有優勢迅速部署旗艦級 NVIDIA Vera Rubin NVL72 與 NVIDIA HGX Rubin NVL8 系統。Supermicro 認證資料中心建構組件解決方案（Data Center Building Block Solutions，DCBBS）可實現最佳化式製造程序、高度客製化方案，以及更快部署時程，助力客戶新 AI 基礎設施市場取得關鍵性競爭優勢。
+Supermicro總裁暨執行長梁見後表示：「Supermicro與NVIDIA的長期合作，以及我們具高彈性的建構組件（Building Block）解決方案，使我們能更快速將最先進AI平台推向市場。此外，我們也透過更高的製造產能和領先業界的液冷技術，以空前的速度、效率與穩定性，助力超大規模運算設施與企業大規模式地部署NVIDIA Vera Rubin與Rubin平台基礎設施。」
+了解更多：https://www.supermicro.com/en/accelerators/nvidia/vera-rubin
+旗艦級產品：
+NVIDIA Vera Rubin平台的重點規格與性能：
+NVIDIA Vera Rubin平台也透過新推出的NVIDIA Spectrum-X Ethernet Photonics網路技術提供強大的性能優勢。採Spectrum-6 Ethernet ASIC設計，並基於台積電3奈米製程，以及200G SerDes共同封裝光學（Co-Packaged Optics）與完全共享的緩衝架構，可提供102.4Tb/s的交換器效能。與傳統可插拔光學（Pluggable Optics）相比，可實現5倍能效、10倍穩定性，以及5倍應用程式運行時間。目前可提供的機型包括液冷式SN6800（有409.6Tb/s CPO和512個800G連接埠）、SN6810（有102.4Tb/s CPO和128個800G連接埠），以及SN6600（具有可插拔式設計和128個800G連接埠，並可搭配氣冷或液冷式散熱配置）。
+同時，Supermicro亦提供基於Petascale全快閃儲存伺服器與JBOF系統的儲存解決方案。此項解決方案可支援NVIDIA BlueField-4 DPU，以執行多種類型的資料管理應用。
+Supermicro在擴大製造產能及強化完善端到端液冷技術堆疊方面的策略，旨在最佳化完整液冷式NVIDIA Vera Rubin與Rubin平台的製造與部署。這些技術與模組化資料中心建構組件解決方案架構進行結合後，可透過快速的結構配置、嚴謹的驗證，以及高密度平台的無縫式擴充，加速部署與啟動上線時程，進一步助力客戶取得領先市場的優勢。
+（本文由PR Newswire授權轉載）

@@ -1,0 +1,10 @@
+知名供應鏈分析師郭明錤指出，台積電下世代先進封裝技術 CoPoS（chip-on-panel-on-substrate）預計將於 2028 年下半年進入量產，目標是提升大於 9.5 倍光罩（reticle）尺寸等級的超大型封裝在量產上的經濟性。市場並傳出，輝達（NVIDIA）的次世代 AI 晶片 Feynman 可能成為首批採用這項新技術的產品。
+郭明錤表示，CoPoS 的核心方向是突破現有 CoWoS（chip-on-wafer-on-substrate）在封裝面積上的限制。相較於 CoWoS 倚賴矽中介層（silicon interposer）並受限於光罩（reticle）尺寸，CoPoS 以面板（panel）做為中介，讓 GPU、記憶體等晶片元件能在更大的封裝面積中整合，藉此支援更大型的 AI 晶片設計。
+Key takeaways on TSMC’s next-generation advanced packaging, CoPoS (publicly available technical details omitted):
+1. CoPoS is currently expected to enter mass production in 2H28. It is designed to improve the economics of ultra-large packages above the 9.5x reticle-size class,…
+— 郭明錤｜Ming-Chi Kuo (@mingchikuo)June 11, 2026
+
+郭明錤進一步說明，CoPoS 並非採用玻璃中介層（glass interposer）；玻璃主要先用做暫時載體（temporary carrier），最終基板則為被 ABF（Ajinomoto Buildup Film）層夾持的玻璃基材，晶片則直接貼附於 ABF 層。由於不再受中介層光罩尺寸限制，台積電可製造大於傳統 CoWoS 限制的超大型封裝，進一步回應 AI 晶片對高階封裝持續升溫的需求。
+▲ 台積電展示的CoWoS封裝。（Source：台積電）
+在供應鏈關注 AI 封裝競局之際，CoPoS 被視為台積電延續先進封裝優勢的重要布局。市場也關注輝達 Feynman 是否會率先導入此一技術，成為示範性應用。
+（首圖來源：Flickr/李 季霖CC BY 2.0）

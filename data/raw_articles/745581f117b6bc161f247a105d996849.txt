@@ -1,0 +1,9 @@
+1 月 18 日，特斯拉首席執行長伊隆·馬斯克（Elon Musk）宣布一項雄心勃勃的人工智慧（AI）晶片路線圖，計劃每九個月推出新一代 AI 處理器，這個速度將超越競爭對手輝達（Nvidia）和 AMD 的年度發布節奏。馬斯克表示，這個策略旨在使特斯拉能生產全球最高產量的 AI 晶片，並在自動駕駛和機器人技術領域實現更快的創新。
+馬斯克透露，AI5晶片的設計已接近完成，AI6晶片正在早期開發中，並將透過合作夥伴三星（Samsung）和台積電（TSMC）進行生產，分別使用2nm和3nm製程。AI5晶片預計將提供比現有AI4硬體高達50倍的性能，並在每美元性能上提升10倍，功耗效率提高3倍，專為全自動駕駛（FSD）、Robotaxi和Optimus機器人量身打造。AI6的目標是實現約2倍於AI5的性能，並計劃在2028年進入量產。特斯拉已與三星簽署了一項價值165億美元的協議，以支持AI6的開發。未來的AI7、AI8和AI9晶片也將遵循這一九個月的設計週期，旨在快速迭代AI技術，並在競爭中獲得優勢。
+Our AI5 chip design is almost done and AI6 is in early stages, but there will be AI7, AI8, AI9 … aiming for a 9 month design cycle.
+Join us to work on what I predict will be the highest volume AI chips in the world by far!https://t.co/2Gibfm3yeY
+— Elon Musk (@elonmusk)January 17, 2026
+
+馬斯克強調，特斯拉的垂直整合策略將優化其晶片設計，並可能使其晶片成為全球最高產量的產品，這個策略也旨在解決當前在運行複雜FSD模型時的硬體限制。隨著AI硬體需求的激增，資料中心預計將在2026年消耗70%的記憶體晶片，這將對供應鏈造成壓力，並推高電子產品的成本。
+馬斯克的最新更新不僅展示了特斯拉在AI晶片領域的野心，也為其AI和晶片團隊的招聘提供契機。
+（首圖來源：shutterstock）

@@ -1,0 +1,16 @@
+人工智慧（AI）運算能力的軍備競賽持續升溫，全球基礎設施投資正迎來史上最大規模的浪潮。然而，AI 產業在處理器之間數據移動方面，正遭遇「一堵根本性的高牆」。因為現有採用銅線的互連技術，已無法有效擴展，進一步服務新世代 AI 所需的數百萬個處理器。在此背景下，光子晶片（Photonic Chips）新創公司 Celestial AIAI 和 OpenLight 正迅速崛起，提供更快速、功耗更低的解決方案，以滿足亞馬遜、微軟和 Google 等超大規模（hyperscaler）客戶的需求。
+
+為應對市場對下一代 AI 基礎設施飆升的需求，光子晶片新創公司獲得了強大的資金支持並深化了與代工夥伴的合作。其中，Celestial AI 在 2025 年 8 月份獲得了來自台積電相關的 VentureTech Alliance 和三星 Catalyst Fund 的 2.55 億美元投資，使其總募資金額達到 5.2 億美元。Celestial AI計劃利用這筆新資金加強其供應鏈，並深化與包括台積電在內的代工廠合作夥伴關係。
+另外，OpenLight 也在 8 月份籌集了 3,400 萬美元的資金，投資者包括瞻博網路（Juniper Networks，現為 HPE 的一部分）以及 Lam Research 的企業投資部門 Lam Capital等。OpenLight 也正準備利用新資本擴展其主動與被動光子元件的製程設計套件（PDK）資料，已透過相關元件來委由代工廠高塔半導體 (Tower Semiconductor) 生產製造。
+就目前的進度來看，Celestial AI預計2026年中到下半年開始銷售首批晶片。因專注伺服器「縱向擴展」（scale-up）網路，占資料中心 85% 數據流量，2025 年起縱向擴展銷售額超越基於銅線的乙太網橫向擴展（scale-out）交換器，加上 Celestial AI 核心技術是 Photonic Fabric，提供從處理器封裝內部晶片到晶片之間，或跨資料中心機架的伺服器到伺服器之間的光學擴展網路。而且，Photonic Fabric 在功耗方面顯著優於輝達 (Nvidia) 的 NVLink 互連技術，Celestial AI也正以其專利的 Optical Memory Interface Bridge (OMIB) 做為 NVLink 的替代方案。
+Celestial AI 解釋，OMIB 是先進封裝，類似英特爾 EMIB、台積電 CoWoS 和三星 IQE，提供晶片和晶片間光子連接。Celestial AI 控制電路的發射接收採台積電 4 和 5 奈米晶片，速度效率相較 Nvidia 需 600~700 奈秒完成操作，Celestial AI 可 100~200 奈秒內完成，且功耗極低，約為每位元 2.8 微微焦耳。
+除了以上的專利技術之外，Celestial AI的技術突破還包括使用電吸收調變器（EAMs）來控制雷射光束強度，而非使用對熱敏感的微環（micro-rings），藉由使用 EAMs 施加電場來調變光的吸收。這種設計使得 Celestial AI 能夠將光學 I/O 放在晶片任何位置，解決了在大型晶片內連接高密度互連所面臨的電磁干擾（EMI）信號完整性挑戰。Celestial AI 目前正在進行流片（taping out）階段，正式量產後將世界上第一個將光學 I/O 放置在晶片中央的大型晶片。
+
+另外，Celestial AI也正在開發一種統一記憶體空間架構。該公司在晶片的南側放置了兩個 HBM3e 控制器，並在東西兩側放置了四個 DDR 控制器，以處理八個 DDR DIMM。透過軟體，HBM 可以做為 DDR 的快取。因為能讓任何處理器讀寫任何記憶體位置，並能將 TB 級的深度學習推薦模型（DLRM）儲存在本地，進而隱藏 DRAM 的記憶體存取延遲，這成為了 Celestial AI 的另一項創新技術。
+Celestial AI未來計畫將其 IP 整合到客戶的晶粒上，或提供光學小晶片（optical chiplet）供客戶封裝。這些光學小晶片包含 EIC（嵌入式中介層載體）技術，EIC 是一種新封裝技術，能以低於傳統 3D IC 的成本，將小晶片整合到多層且類似晶片的封裝中。
+而在 OpenLight 的發展方面，該公司預計 2025 年底開始為其首批客戶投入相關產品的生產。OpenLight 的主要優勢在於採用磷化銦（indium phosphide）技術，透過異質整合將雷射整合到晶片上。OpenLight指出，當前一些相當大的客戶對將磷化銦應用於共同封裝光學元件（CPO）非常感興趣。所以，OpenLight 已成功展示了採用磷化銦的 400 Gbps 調變器，並且其 200 Gbps 調變器達到了約 1.5 微微焦耳每位元的極低功耗。這可被異質整合的能力，代表著將 200 兆位元調變器替換為 400 兆位元調變器時，由於電壓增加不大，每位元的功耗幾乎達到減半的狀況。
+事實上，OpenLight 在產業鏈中處於獨特地位，因為它不一定為客戶製造晶片，而是提供一套元件（PDK library）資料，讓客戶能夠設計自己的晶片。OpenLight 正與晶片封裝公司日月光投控(ASE Holdings)的子公司矽品 (ISE) 合作。
+當前的光子晶片領域競爭正日益激烈，其他競爭對手還包括 Ayar Labs、Lightmatter 和中國華為。其中，華為也瞄準了挑戰 NVLink 的市場，該公司宣布了其新的 SuperPod 集群，計劃在2026年連接多達 15,488 個昇騰 NPU，並將它們做為一個連貫的系統運作。
+至於，Lightmatter 則是在 3 月宣布了 Passage M1000 平台計畫，該平台能提供 114 Tbps 的總光學頻寬。M1000 參考平台是一個多光罩主動光子中介層（interposer），用於連接 3D 封裝中的大型晶粒，Lightmatter 已與格羅方德（GlobalFoundries）和艾克爾（Amkor）合作，開始生產基於 M1000 的客戶設計。
+此外，量子計算新創公司 PsiQuantum 也在格羅方德的紐約馬耳他廠採用標準的 45 奈米氮化矽製程製造光子晶片。而 Ayar Labs 則於 9 月宣布，與世芯 (Alchip Technologies) 合作，將 Ayar 的 CPO 技術和世芯的設計專業知識，結合台積電的 COUPE（Compact Universal Photonic Engine）先進封裝技術。
+(首圖來源：OpenLight)

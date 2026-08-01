@@ -1,0 +1,8 @@
+半導體測試介面領導廠商穎崴科技（WinWay Technology）今（14 日）舉辦 CPO 技術論壇，由穎崴科技技術主管孫家彬以「CPO 的進化論──矽光子的先進測試方法論」（The Evolution of Co-Packaged Optics : Advanced Testing Methodologies for Silicon Photonics）為題發表演說，並分享 CPO 為先進測試、高階封裝與半導體測試介面所帶來全新的機會與挑戰。
+矽光子（Silicon Photonics）為基於矽材料的光子技術，共同封裝光學（Co-Packaged Optics）則是將電子和光子積體電路共同封裝在同個中介層的技術，後者將光引擎直接搬到晶片旁，大幅縮短距離、功耗；同時晶圓大廠和 IC 設計大廠於近期紛紛展示 CPO 技術的原型，2026 年被視為 CPO 技術商轉元年，更是技術邁向放量的關鍵年。
+「今年是 CPO 元年！」穎崴全球業務營運中心執行副總陳紹焜指出，CPO是一個轉淚點，從電的時代走向光的時代，穎崴科技從2022年底到2023 便提出 CPO 的概念，可說是全台第一個提出CPO的公司，回到技術基本面，雖然對於 CPO 技術不能說是一知半解，但還有許多地方虛學習，可說充滿商機但也極具挑戰。
+根據IDTechEx預估，在AI及HPC浪潮下，每個AI加速器將用使用到數個光互聯引擎，以滿足對高速資料處理的需求，也因此帶動CPO市場規模自2026年將以37%的年複合增長率成長，到2036年將達到200億美元。半導體測試介面在CPO生態系中，能完成奈米級光學對位（nano scale optical alignment）、掌握KGD測試成效、確認訊號完整性（signal integrity）等，針對客戶在不同使用情境下提出測試解決方案，使得半導體測試介面在未來CPO市場份量逐漸攀升，扮演著不可或缺的要角。
+隨著矽光子指標大廠在CPO傳輸訂出更高規的頻寬（400G）及高速（224 Gbps/ 448Gbps）的規格，穎崴的 CPO 解決方案持續升級，從 Wafer/Chip Level、Package Level 到 Module Level 等三個測試級別推出相對應的解決方案。
+其中，WLCSP 晶圓級探針卡（WLCSP Probe Card）部分，Wafer Level 可用在「上電下光」的測試，Chip Level 則可用在「上光下電」的解決方案；同時，穎崴獨創微間距對位雙邊探測系統解決方案（Double Sided Probing System Total Solution）則針對 Package Level 提供獨創的CPO測試；穎崴的跨世代超導測試座HyperSocket™更是滿足Module Level的測試需求。
+穎崴指出，進入 AI 爆發期，海量資料的高速傳輸及運算，讓矽光子整合技術成為焦點，加速全球重要廠商對CPO持續推出新的方案及架構，公司已做好準備，並提供完整客製化解決方案，可望在迎向3.2T、6.4T高速資料傳輸新時代，能取得更全面性的光電同測市場先機。
+（首圖來源：科技新報）

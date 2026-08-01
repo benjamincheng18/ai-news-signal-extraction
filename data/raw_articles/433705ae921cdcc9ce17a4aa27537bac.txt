@@ -1,0 +1,26 @@
+為了全面展示益華電腦（Cadence）在代理式 AI（Agentic AI）領域的技術佈局，以協助半導體與 EDA 產業徹底掌握能自主執行複雜設計任務的最新代理式 AI 技術，Cadence 特別於 2026 年 5 月 27 日新竹豐邑喜來登大飯店盛大舉辦《 智慧自主：Cadence Agentic AI 技術論壇》。
+
+來自各國的 Cadence 與聯發科技技術專家與研發主管輪番上台發表精采演說，介紹 Cadence 從 EDA Tools 到 EDA 超級代理（Super Agent）的最新技術藍圖及最具啟發意義與參考價值的客戶使用案例。
+Cadence 台灣區總經理宋栢安在開場致詞中表示，當前 EDA 工具已然進入到代理式 AI 的新階段。儘管這個進展仍處於早期階段，但 Cadence 業務與行銷團隊已在積極思考如用運用它們來提高生產效率。宋栢安表示，過去幾年，大家的重點都放在基礎設施 AI 的建置上，如今已逐漸進展到物理 AI 階段。隨著 AI 技術從生成式 AI 一路進展到代理式 AI 與物理 AI，現行的設計工具與概念思維也必須重新思考再進化。
+Cadence 資深產品管理事業群總監 Matt Graham 表示，近年來該公司展現了對 EDA 領域代理式 AI 的願景與佈署能力，並將 AI 定位為下一次設計抽象化層級的大躍升，進而全面改變晶片設計、驗證與實作流程，同時能解決結構性人才短缺問題。
+在全球邁入由 AI 驅動的「AI 超級週期」（AI Supercycle）下，半導體市場規模在 2026 年預估將達到 1.3 兆美元，到了 2030 年更將突破 2 兆美元大關。在半導體設計史上，每一次的「抽象化」（Abstraction）與「重用」（Reuse），都帶來約 10 倍的生產力提升。在 AI 驅動生產力的新時代裡，目前部分案例已能帶來 10 倍的生產力提升，長期目標更有望實現 100 倍的躍升。
+Cadence 將 EDA 領域的自主化以自動駕駛系統的 Level 1 至 Level 5 來比擬，並將相對應工具與解決方案歸納成三大類別，包括對應等級 1 的設計優化 AI（Optimization AI），對應等級 2、3 的工具代理（Tool Agent），以及針對等級 4、5 的超級代理（Super Agent）。
+在 Optimization AI 方面有兩個值得一提的使用案例，首先是適用於數位實作優化的 Cerebrus，可自動化平行執行 Innovus 流程與參數調校，以改善 PPA 表現。目前超過 2000 次的晶片投片（tapeout）採用這項技術，並帶來 4 倍的運算效率、 2 倍更快的周轉時間，以及約 15% 的 PPA 提升。
+另一個是適用於驗證領域的 Verisium，其利用機器學習加速受限隨機回歸（constrained random regressions）測試速度，可實現 5 – 10 倍快的周轉時間，以及約 2 倍快的覆蓋率收斂（coverage closure）速度。
+至於 Tool Agent，亦即將 Cadence Jasper、Verisium、Innovus、Conformal、Stratus、Virtuoso 與 Allegro 等既有 EDA 工具加以代理化（Agentification），並在工具中嵌入自然語言介面（任何語言皆可溝通）後的新型工具，它們提供基於意圖的指令操作、波形分析、原始碼審查等功能。
+在前文提及的 Cadence 三層式 AI 堆疊中，Tool Agent 與 Super Agent 皆位於頂層（AI 層）；中層（物理特性優化層）是 Cadence 既有的 EDA 與 SDA 工具；底層（加速運算層）即為 CPU + GPU 運算。其中，透過 MCP，EDA / SDA 工具可以變成 AI 代理能呼叫的工具。
+再就 Super Agent 來說，其為能執行複雜流程級任務的多輪推理與代理式 LLM 工作流，隨著 Cadence 於去年 11 月收購 ChipStack 之後，該公司在今年 2 月發表 ChipStack AI 超級代理 (Super Agent)，堪稱是業界首款用於自動化晶片設計與驗證的全自主虛擬代理 AI 設計工程師。
+隨後又在 4 月舉行的 CadenceLIVE Silicon Valley 大會上推出兩款新的 Super Agent，一為針對類比 / 客製化 IC 設計與驗證的 ViraStack，另一款是適用於數位實作與設計簽核（Signoff）的 InnoStack。Cadence 也將推出作為管理所有 Super Agent 之主控代理（head agent）角色的 AgentStack，此外，還會在未來進一步發表主打 3D-IC 設計的 3DStack，以及聚焦多物理場與系統設計的 SystemStack。
+最重要的是，這些超級代理會根據規格文件、既有 RTL、行為模型以及各種設計產出物，建立 AI 可理解之設計意圖的「心智模型（mental model）」，以降低幻覺問題。換言之，它能驅動情境感知工作流確保設計品質，同時基於設計事實的 LLM 推理中樞。
+值得注意的是，Cadence 於 Computex 2026 宣布推出業界首款全自主虛擬代理 AI 設計工程師（Fully Autonomous Virtual AI Design Engineer），並揭示 ChipStack AI Super Agent 已進一步拓展至 Level-5 自主性（Level-5 Autonomy）。不同於傳統 AI 助理僅能回應指令或協助執行單一任務，Level-5 的 ChipStack AI Super Agent 已能自主規劃並執行複雜的晶片設計與驗證流程，涵蓋規格理解、RTL 生成、驗證規劃、形式驗證、模擬分析、除錯與設計收斂等關鍵環節。未來工程師將從執行者轉變為監督者與決策者，更專注於設計意圖定義與成果管理。Cadence 認為，此一突破象徵 EDA 產業正從「AI 輔助工程師」邁向「AI 成為虛擬工程師」的新時代，為全面自主化晶片開發流程奠定重要基礎。
+ChipStack 已可與 Jasper、Xcelium、Genus 與 Verisium 等工具整合，並透過心智模型機制降低幻覺、強化設計意圖一致性。Graham 表示，ChipStack 已於多家客戶的生產環境中實際部署，並取得顯著成效。在部分設計流程中，端到端效率提升達 2 至 3 倍。舉例而言，某 AI 晶片業者的形式驗證環境建置時間，已從原本的 5 天縮短至數小時；一家衛星通訊公司的 RTL 最佳化迭代時間，則由 1 週大幅縮減至 1 小時；此外，某雲端服務業者的 UVM 驗證環境建置時間，也從數天縮短至數小時。
+Cadence 內部已廣泛採用 ChipStack、InnoStack 與 ViraStack 等 AI 技術，內部每日活躍使用者規模約達 1,000 人。其中，一項 PCIe 控制器專案在導入 AI 輔助開發後，RTL 與 Design Verification（DV）開發效率提升達 2 倍，進一步驗證 AI Agent 在晶片研發流程中的實際價值。
+Graham 表示，透過 ViraStack AI Super Agent 將心智模型方法延伸至客製化類比設計領域，可匯入規格文件與 PDK，擴充 IP 目錄，支援設計建立、除錯、驗證、設計中心化與最佳化，以及跨製程的版圖遷移（layout migration）等能力。ViraStack 能探索各種設計選項並量化其取捨關係，協助設計在效能、功耗與可靠度目標之間達成收斂。
+多年來，企業透過 Cadence Virtuoso 技術累積豐富的類比 IP 資產庫，如今 ViraStack 能自主挖掘這些 IP 資產庫，並在新專案需要時，協助將經驗證的原理圖遷移至較新的製程節點與規格要求之下。在一項 60GHz Analog/RF PHY 的實際專案案例中，客戶透過 ViraStack 展現了設計收斂速度提升 60%，版圖生產力提升 3.2 倍的效益。
+至於 InnoStack AI Super Agent 則聚焦於實作與簽核流程，透過匯入 RTL、PDK、元件庫（libraries）與設計約束條件（constraints），推動最佳化、樓層規劃、設計簽核並支援工程變更作業。藉由大規模平行執行各種設計實驗，InnoStack 能找出人工團隊在實務上難以嘗試的修正方案與最佳化機會，協助解決連帶衍生問題，並推動設計更快達成收斂與簽核目標。在一項多區塊、多晶片的實際案例中，客戶成功透過，InnoStack 展現 15% 以上的 PPA 提升、4 倍的運算效能提升，以及設計目標達成（TTA）時間快 2 倍。
+聯發科技資深技術經理黃建霖現身說法，透過 ChipStack，結合 Stratus（RTL 生成）及 Jasper（形式驗證）的整合，成功展示如何從一份規格出發，快速完成 RTL 設計、驗證與交接流程。
+在另一個單一 AES 設計流程案例中，黃建霖成功展示 ChipStack 超級代理如何把「從規格產生 RTL →品質檢查→建立設計知識模型→形式驗證」流程自動化。他總結指出，未來工程師最重要的工作是定義規格，而不是手寫 RTL。剩下的 RTL 生成、驗證、除錯與收斂，將交由多個 AI 代理偕同完成。
+從設計優化 AI 的突破，到 ChipStack、ViraStack 與 InnoStack 等 Super Agent 的全面落地，Cadence 正式宣告 EDA 進入「AI 代理人偕同開發」的新紀元。
+隨著 Computex 2026 推出業界首款 Level-5 自主性的 ChipStack AI Super Agent，AI 已從輔助工具進化為可自主執行任務的虛擬設計工程師，重塑晶片開發的流程與分工邏輯。在 NVIDIA 技術驅動之下，典型的驗證週期已由「週」級大幅壓縮至「小時」級，多代理人偕同驅動的晶片研發模式已逐步成形。
+Cadence 正站上這場 AI 代理革命的核心位置，推動半導體設計進入下一個以自主化為主軸的創新時代。
+（首圖來源：shutterstock；圖片來源：Cadence）

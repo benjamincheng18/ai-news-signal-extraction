@@ -1,0 +1,12 @@
+市場消息傳出，高通執行長Cristiano Amon於21日赴韓，連續會見三星電子與SK海力士高層。外界解讀，此行目的是先進2奈米晶圓代工合作，同時因應AI記憶體供需緊張問題。
+根據爆料人士@jukan05在社群平台X中指出，Amon當天稍早在首爾盤浦洞一間飯店接受《韓國經濟日報》（The Korea Economic Daily）獨家採訪。他前一日經由金浦機場入境，並持續進行訪韓行程至當日。
+據悉，Amon此次訪韓的核心議題是與三星晶圓代工部門的合作。他當天與三星電子晶圓代工事業部總裁Han Jin-man等高層會面，預計討論將高通下一代應用處理器（AP）Snapdragon 8 Elite 2採用三星2奈米製程（SF2）生產的可能性。
+[EXCLUSIVE] Qualcomm CEO Visits Korea, Meets with Samsung Foundry Leadership… Memory Cooperation Talks with SK
+Qualcomm CEO Cristiano Amon visited Korea on the 21st for back-to-back meetings with Samsung Electronics and SK Hynix executives. The visit is seen as an effort to…pic.twitter.com/aJBiuX3CLi
+— Jukan (@jukan05)April 21, 2026
+
+Amon於今年CES中表示，已與三星電子就採用2奈米製程進行晶圓代工展開討論，設計工作已完成。
+若最終簽署合約，將代表高通時隔五年重返三星先進製程量產陣營。業界分析，高通重新考慮三星晶圓代工，主要因其已改善長期存在的良率與散熱問題，且技術信譽逐步回升。
+高通自2022年起轉向台積電，但隨著台積電晶圓價格持續上升，高通也希望透過「雙供應來源」策略，分散對單一供應商的依賴。
+同時Amon也與SK海力士高層會面，討論記憶體供需合作。隨著近期AI伺服器及裝置端人工智慧市場的擴張，導致LPDDR等核心記憶體產品短缺情況加劇，高通已採取行動確保配額。高通去年推出AI加速器AI200，正式進軍伺服器市場，雙方亦就高頻寬記憶體（HBM）與SOCAMM展開討論。
+（首圖來源：科技新報）

@@ -1,0 +1,8 @@
+網通 IC 設計大廠邁威爾科技（Marvell Technology, Inc.）面臨亞馬遜（Amazon.com）轉單疑慮、微軟（Microsoft Corp.）可能考慮跟競爭對手博通（Broadcom）的打擊，股價應聲下殺。
+MarketWatch、Investor’s Business Daily等外電報導，Benchmark分析師Cody Acree將Marvell投資評等從「買進」調降至「觀望」，因為根據他跟矽谷業界人士的談話結果，亞馬遜很可能已將Trainium 3和Trainium 4兩款晶片的設計訂單轉給台灣的世芯-KY。
+Acree表示，Marvell股價對上週公布的亮眼財報反應「格外良好」，但他建議投資人短期內先獲利了結，因為市場過於樂觀、錯誤解讀了該公司近期暗示亞馬遜訂單穩定的訊息。他認為，Marvell自身提供的財測數據，實際上暗示公司預期可能會失去亞馬遜晶片業務。
+Acree表示，亞馬遜正在跟世芯-KY合作，為即將推出的晶片專案尋找「更具經濟效益的設計、晶圓代工與後段（backend）支援」。
+Acree並從業界會議判斷，亞馬遜正在向電子設計自動化（EDA）軟體商新思科技（Synopsys）取得SerDes技術授權、應用於Trainium 3與Trainium 4，這會進一步瓜分Marvell的相關業務。
+另外，The Information 5日報導，微軟考慮選擇博通做為可能的晶片設計夥伴。
+Marvell 8日跳空重挫6.99%、收92美元，跌幅居費城半導體指數30支成分股之冠。競爭對手博通則上漲2.78%、收401.1美元，創11月28日以來收盤新高。
+（本文由MoneyDJ新聞授權轉載；首圖來源：Marvell）

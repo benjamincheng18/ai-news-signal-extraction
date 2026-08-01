@@ -1,0 +1,10 @@
+《路透社》引述知情人士消息指出，荷蘭半導體設備大廠 ASML 可望成為法國 AI 新創公司 Mistral AI 的最大股東，以強化歐洲科技主權。
+
+知情人士指出，ASML 將投資 13 億歐元，將占 Mistral AI 新一輪 17 億歐元融資的大部份，並進一步取得董事會席位。
+這使 Mistral AI 將以 100 億歐元投資前估值，成為歐洲最具價值的 AI 公司。ASML 與 Mistral AI 結盟，有助於歐洲減少對美國、中國模型的依賴。
+知情人士透露，美國銀行（Bank of America）曾就 ASML 投資 Mistral AI 事宜提供諮詢服務。對此，ASML、Mistral AI 及美國銀行不願發表任何評論。
+ASML 獨家供應 EUV 微影設備給台積電、英特爾等晶圓代工廠，單套系統造價約 1.8 億美元，在先進晶片製造扮演關鍵角色。與此同時，ASML 在設備中廣泛應用 AI，以提升設備效率。未來引進 Mistral AI 的資料分析與 AI 能力，將能進一步改善產品效能並催生新產品。
+Mistral AI在 2023 年 5 月註冊成立公司，創始團隊都曾參與大型語言模型開發，共同創辦人暨執行長 Arthur Mensch 曾任 Google DeepMind 研究員，是 Flamingo、Chinchilla 模型核心貢獻者。另 2 名共同創辦人 Timothée Lacroix（Mistral AI 技術長）和 Guillaume Lample（Mistral AI 首席科學家）曾是 Meta 巴黎 AI 實驗室研究員，對模型推理、預訓練和模型嵌入有深厚研究，發表過多篇重要論文，更是 Llama 和 Llama 2 的核心貢獻者。
+Mistral AI 2024 年完成 B 輪融資後，公司估值超過 60 億美元，而 NVIDIA 和微軟 2 大科技巨頭已是 Mistral AI 的投資人和合作夥伴。本月初據《金融時報》報導，Mistral AI 正與 MGX 等投資人洽談以 100 億美元估值籌資 10 億美元，《彭博社》另指出，新一輪融資目標估值定為 140 億美元。
+編按：Mistral AI 9 日宣布完成 17 億歐元 C 輪融資，由 ASML 領投，投資後估值 117 億歐元。（2025/09/09 PM 04:50）
+（首圖為 Mistral AI 團隊成員，來源：Mistral AI）

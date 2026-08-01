@@ -1,0 +1,8 @@
+隨著發表時程逼近，關於英特爾（Intel）新一代筆電處理器「Panther Lake」的資訊持續浮出。據《路透社》等外媒報導，英特爾近日在亞利桑那州舉辦封閉簡報會，展示 18A 製程與全新架構設計。
+Panther Lake 為英特爾採用 Hybrid Multi-Tile Design 架構，整合不同製程晶粒於同一封裝中。根據產業消息，CPU tile 採用英特爾自家 18A 製程，導入 RibbonFET 全環繞閘極電晶體與 PowerVia 背面供電技術；Graphic tile（GPU）由台積電N3E 製程 代工，SoC / I/O tile 則採用台積電 N6 製程。
+架構方面，主晶粒整合 4 個 P-core（Cougar Cove）與 8 個 E-core（Darkmont），SoC 側再新增 4 個低功耗核心（LPE），共計 16 核設計。圖形部分採用新一代 Xe3（Celestial）架構，高階版本配備 12 核 GPU，核心數較前代 Lunar Lake Xe2（Battlemage）提升約 50%。AI 引擎與媒體模組亦全面升級，支援裝置端 AI 推論與高效影像運算，整體功耗預估下降 約 30%。
+與主打封裝記憶體（on-package memory）的 Lunar Lake 不同，Panther Lake 改採外掛記憶體（external RAM）架構，提升平台擴充性與成本彈性。英特爾同時啟用全新命名體系「Core Ultra X 系列」，X9、X7 機種配備完整 12 核 Xe3 GPU，中階 Ultra 5 則為 10 核配置。
+2025 下半年量產、2026 年初上市，由亞利桑那州 Fab 52 廠負責 18A 製程的 CPU tile 製造，並由台積電提供 N3E 與 N6 晶片代工。《路透社》報導，目前 Panther Lake 良率約 10%，雖較去年 5% 明顯提升，但距離穩定量產仍有挑戰。
+除了 Panther Lake ，陸續推出 Clearwater Forest 與 Nova Lake 系列。Clearwater Forest 採用 Intel 18A 製程，鎖定高密度伺服器市場，將以全新多晶粒封裝架構強化能效表現；Nova Lake 則定位為新世代行動與桌上型平台主力，CPU tile 採 Intel 18A 製程，而 Graphic tile 與 SoC tile 則傳部分由台積電代工。
+外媒先前報導，英特爾近年增加外包台積電比重，並已投片至少一款 N2 製程的高效能運算晶片。
+（首圖來源：影片截圖）

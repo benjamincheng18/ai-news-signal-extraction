@@ -1,0 +1,12 @@
+Google 最新 Tensor G5 晶片採用台積電3 奈米製程生產，可讓晶片封裝更多電晶體，預期改善性能與功耗。但 Tensor G5 推出後並未讓使用者與科技愛好者感到驚豔，許多人認為這顆晶片容易「降頻」，這樣的缺陷可能出在 Google 對 Tensor G5 架構採取拼裝式做法，沒能好好統整多方架構。
+
+Tensor G5 具有複雜架構，首先是八核心 CPU 的設計，包括 1 個高性能 Cortex-X4 核心、時脈 3.78 GHz，5 個中階 Cortex-A725 核心、時脈 3.05 GHz，2 個高效 Cortex-A520 核心、時脈 2.25 GHz。
+接下來，GPU 設計採用 Imagination 的 IMG DXT-48-1536，屬於 PowerVR 系列的整合式 GPU，時脈 1.10 GHz，理論效能與其他高階行動 GPU（例如 Adreno 732 / 740 或 ARM Mali G715 MP7）相當，但不支援光線追蹤。
+此外，Tensor G5 加入第五代 TPU，用於處理機器學習和 AI 工作負載，還有配備三星 Exynos 的 5G 數據機。
+外媒觀察到，Tensor G5 容易發熱並降頻，嚴重影響遊戲效能。有人把原因歸咎於 Google 將 Tensor 晶片的 GPU 從 ARM Mali 換成 Imagination 的 IMG DXT-48-1536，但光靠這個轉換不能完全解釋整個問題。
+推測 Google 對 Tensor G5 架構採取拼裝式做法，恐怕才是晶片性能表現不如預期的問題所在。
+試想高通的 Snapdragon 8 Elite Gen 5 在 Geekbench 6 與 3DMark 基準測試遠勝 Tensor G5，為什麼會這樣？高通在 Snapdragon 8 Elite Gen 5 使用自家客製化的 Oryon CPU 核心，主核心時脈達 4.60 GHz，效能核心時脈為 3.62 GHz。高通將較高的時脈做了最佳化，包括更大的 L2 快取配置，2 種核心均擁有 12 MB 的 L2 快取。相比之下，Google 的 Tensor G5 使用的是現成 Arm Cortex CPU 核心，並未針對 Pixel 10 新機做精細調整或最佳化。
+雖然 Google 與 Imagination 密切合作開發新的 IMG DXT-48-1536，但 Imagination 對 DXT 系列驅動程式保有完整的專有控制權。這意味著，Google 雖然能在某些面向（特別是 AI 工作負載與電源管理）進行調整，但必須依賴 Imagination 進行基礎驅動程式更新和硬體特定程式碼，凸顯出 Google 在基礎最佳化面向上的控制力不足。
+換句話說，Google 的晶片設計策略類似買成套西裝，然後再付錢做些局部修改。這種西裝當然能穿，但缺少那種訂製西裝才有的魅力。
+如果 Google 繼續在晶片設計策略把成本視為優先，即便加入引以為傲的 TPU，但晶片性能效能表現很有可能繼續落後競爭對手。
+（首圖來源：Google Blog）

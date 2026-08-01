@@ -1,0 +1,10 @@
+研調機構Counterpoint Research調查，全球前十大業者的AI伺服器運算ASIC伺服器出貨量，預計將於2024至2027年間成長三倍。其中，AI伺服器運算ASIC市場從2024年高度集中的雙寡占結構，即Google 64%、AWS 36%，逐步演進為更為多元的格局；此外，隨著Meta與微軟擴大內部晶片規模，預期至2027年將出現具規模的出貨量成長。
+就AI伺服器運算ASIC的出貨與部署量來說，Google TPU將持續扮演產業「量能基石」的角色，主要來自Gemini模型自雲端延伸至邊緣端的採用與使用快速成長，所帶動的龐大運算需求。
+Counterpoint Research研究副總裁Neil Shah表示，企業內部AI伺服器運算ASIC的設計成長，正驗證「內部客製化XPU時代」的來臨。AI加速器正針對特定訓練或推論工作負載量身打造，市場結構也逐步從單一仰賴通用GPU，走向多元化。
+Counterpoint Research認為，即使Google和聯發科聯盟的競爭強度升高，博通仍可望於2027年以約60%市佔率，持續穩居AI伺服器運算ASIC設計夥伴龍頭地位。
+該公司助理研究員David Wu認為，雖然隨著整體可服務市場（TAM）擴大，以及其他雲端業者攜手博通、Marvell與世芯等設計夥伴導入內部矽晶片，Google市占預期將於2027年下滑至52%，但其TPU艦隊仍將是產業無可撼動的量能核心與發展指標。
+Counterpoint Research研究副總監Brady Wang指出，博通長期以來都是AI伺服器運算ASIC設計的首選夥伴，但未來將面臨來自Google 與聯發科聯盟日益升高的競爭壓力。這一趨勢在即將推出的TPU v8系列中尤為明顯。
+至於Marvell在設計案（design win）方面面臨部分逆風。儘管於2024至2027年間的出貨量可望倍增，但設計服務市占率預估將於2027年下滑至8%。
+Counterpoint Research副研究總監Gareth Owen表示，取得新的設計案對Marvell而言已成為關鍵，以降低成長風險，並避免在現有Trainium系列之後出現營收空窗期。值得注意的是，Marvell端到端客製化晶片產品組合，正因其在HBM/SRAM客製化記憶體、PIVR解決方案，以及收購Celestial AI後，在scale-up光學互連領域的布局而更趨完整。
+此外，Celestial AI不僅可能為Marvell每年帶來數十億美元等級的新增營收，也有潛力協助其在未來數年取得光學scale-up互連技術的領導地位。Counterpoint認為，這些創新將成為Marvell未來拓展客製化XPU及XPU附加應用的重要關鍵，並有助於提升其設計市佔。
+（首圖來源：shutterstock）

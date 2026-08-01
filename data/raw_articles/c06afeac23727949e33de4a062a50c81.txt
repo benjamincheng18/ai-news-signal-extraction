@@ -1,0 +1,11 @@
+美國華盛頓舉行的輝達 (NVIDIA) 年度大會 GTC October 2025，輝達執行長黃仁勳首次公開下代 Vera Rubin 超級晶片（Superchip），展示主機板整合一顆 Vera CPU 與兩顆巨大 Rubin GPU，最多 32 個 LPDDR 記憶體插槽，HBM4 高頻寬記憶體。
+
+黃仁勳表示，Rubin GPU 已經回到實驗室進行測試，這是由台積電代工生產的首批樣品。每顆 GPU 擁有 8 個 HBM4 介面及兩顆與光罩大小相同的 GPU 核心晶片（Reticle-sized dies）。此外，Vera CPU 搭載 88 個客製化 Arm 架構核心，最高可支援 176 執行緒。
+
+按照輝達的規劃，Rubin GPU 有望在 2026 年第三或第四季進入量產階段，時間大致與現有的 Blackwell Ultra的 GB300 Superchip 平台全面量產相當或更早。
+另外，輝達的 Vera Rubin NVL144 平台將採用兩顆新晶片組合，其中 Rubin GPU 由兩顆 Reticle 尺寸的核心組成，具備 50 PFLOPS 的 FP4 精度算力，並配備 288 GB HBM4 高頻寬記憶體。配套的 Vera CPU 提供 88 個客製化 Arm 核心、176 執行緒，NVLINK-C2C 互聯頻寬可達 1.8 TB/s。
+性能方面，Vera Rubin NVL144 平台可達成 3.6 Exaflops的FP4 推理與 1.2 Exaflops的FP8 訓練算力，相較 GB300 NVL72 提升約 3.3 倍。系統總記憶體頻寬達 13 TB/s，快速儲存容量為 75 TB，分別比上一代提升 60%，並具備雙倍 NVLINK 與 CX9 通信能力，最高速率分別為 260 TB/s 與 28.8 TB/s。
+
+輝達還計畫在 2027 年下半年 推出更高階的 Rubin Ultra NVL576 平台。該系統將 NVL 規模從 144 擴展至 576，CPU 架構保持不變，而 GPU 將升級為四顆 Reticle 尺寸核心，性能最高達 100 PFLOPS 的 FP4 精度算力，並搭載 1 TB HBM4e 高頻寬記憶體。
+性能方面，Rubin Ultra NVL576 平台可達成 15 Exaflops的FP4 推理與 5 Exaflops的FP8 訓練算力，相較 GB300 NVL72 提升 14 倍。其 HBM4 高頻寬記憶體頻寬達到 4.6 PB/s，快速儲存容量達 365 TB，分別為上一代的 8 倍，NVLINK 與 CX9 通信能力則提升至 12 倍與 8 倍，最高速率分別達到 1.5 PB/s 與 115.2 TB/s。
+(首圖來源：視訊截圖)

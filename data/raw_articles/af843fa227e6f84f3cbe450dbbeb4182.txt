@@ -1,0 +1,17 @@
+Google 12 日重磅以 Gemini 為核心所打造全新筆電 Googlebook，攜手宏碁、華碩、戴爾、惠普、聯想等品牌夥伴，首批 Googlebook 將有多款造型和尺寸，以及筆電上蓋獨有的發光條，預計今年秋季上市。
+
+Googlebook 是首款專為Gemini Intelligence設計的筆電，隨時隨地為使用者提供個人化和主動式的協助。Google 將 Android、ChromeOS 的精華融入 Googlebook，並配備 Google Play 上的應用程式，以及廣受使用者喜愛的 Chrome 瀏覽器。
+Googlebook 內建了「Magic Pointer」，是一款由 Gemini 驅動的全新滑鼠游標。它不只是用來指向和點擊，使用者只要輕輕晃動滑鼠游標，便能根據螢幕上的內容即時浮現符合情境的建議。舉例來說，將滑鼠游標指向電子郵件中的日期，便能快速安排一場會議，或者同時選取一張客廳照片及另一張新沙發的圖片，便能 AI 生成兩者結合在一起的布置效果。
+「我們心想，我們可以將 Gemini 的智慧融入游標，讓游標真正變得聰明且具智慧。」負責 Android 平板和筆電產品線的資深總監 Alexander Kuscher 表示，「當你晃動游標並在螢幕上移動時，它會告訴你哪些內容可以進行互動，並根據情境提供你可以採取的動作，這真的充分展現我們對於 Googlebook 各項 AI 功能的思考方式。」
+使用者還能在 Googlebook 運用全新「Create your Widget」功能，藉由向 Gemini 下達指令來打造客製化小工具。Gemini 從網路上擷取資訊，並與 Gmail、Google 日曆等應用程式串接，建立一個單一、個人化的儀表板。舉例來說，想要規劃一場韓國的演唱會追星之旅，Gemini 將彙整航班和飯店資訊，甚至加上倒數計時功能。
+Googlebook 將與 Android 手機相容，讓使用者能在 Googlebook 使用手機上的應用程式。舉例來說，當使用筆電時，突然想起每日的多鄰國（Duolingo）語言課程還沒完成，可以直接在筆電開啟這款應用程式。
+此外，使用者還能透過 Googlebook 的檔案瀏覽器，輕鬆讀取手機中的檔案，並直接在筆電上檢視、搜尋或插入檔案。
+
+▲ Googlebook 產品亮點。（Source：影片截圖）
+15 年前 Google 推出了 Chromebook，是一款為雲端優先所打造的筆電。隨著人們從作業系統邁入智慧系統的時代，Google 看見重新思考筆電定義的契機，Googlebook 因此誕生。
+Chromebook 多年來一直是教育市場和企業職場的常見設備，儘管 Google 未明說，但 Googlebook 實質上將接替 Chromebook 的地位。
+Google 不只是更新筆電產品線，更可說是展開一場長期轉型。就此告別為了打造筆電版圖所依賴的 ChromeOS 平台，轉向一套以 Android 為基礎、AI 從系統底層便已內建其中的全新作業系統。
+這次發表 Google 未揭露更多 Googlebook 採用晶片及其他硬體規格。新品預計秋季上市，屆時便能了解更多硬體細節。
+
+▲ Googlebook 全新登場。
+（首圖來源：Google Blog）

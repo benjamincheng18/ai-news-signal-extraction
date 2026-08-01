@@ -1,0 +1,14 @@
+根據 Wccftech 報導，川普政府可能正施壓特斯拉（Tesla），希望將原先由台積電代工的 AI6.5 晶片部分訂單轉交給英特爾（Intel）。
+先前特斯拉執行長馬斯克（Elon Musk）曾於今年 4 月透露，下一代 AI6 晶片將採用三星（Samsung）位於亞利桑那州的 2 奈米製程，而更高階的 AI6.5 晶片，原先則規劃交由台積電亞利桑那州廠區以 2 奈米製程生產。
+根據規劃，Tesla AI6 晶片預計於 2026 年 12 月完成 tape-out（設計定案），AI6.5 則預計數個月後推出。兩款晶片都將大幅提高 SRAM 使用比例，並導入 LPDDR6 記憶體，希望在維持相同晶片面積下，讓效能較 AI5 提升約兩倍。
+馬斯克日前也指出，AI6 與 AI6.5 約有一半的 AI 運算加速器專門配置給 SRAM，因此 SRAM 快取中的有效記憶體頻寬，將遠高於 DRAM。
+不過，爆料人士 Jukan 近日引述中國微博消息指出，Tesla 正考慮將 AI6.5 晶片部分代工，從台積電轉移至英特爾，而背後原因與川普政府施壓有關。
+Interesting.
+Tesla’s current AI5 chip, codenamed Helios, is reportedly being foundried by TSMC and Samsung, and the next-generation AI6 was also originally expected to be split between those two foundries.
+However, under strong pressure and encouragement from the Trump…pic.twitter.com/ceYAyyB9Va
+— Jukan (@jukan05)May 11, 2026
+
+消息人士指出，川普政府目前正積極推動「美國製造」政策，希望透過蘋果（Apple）與 Tesla 等科技大廠，帶動美國本土晶片製造與先進製程發展，進一步強化美國半導體供應鏈。
+不過，市場普遍認為，Tesla 若要放棄目前成熟穩定的台積電先進製程，轉向英特爾尚未完全驗證、且仍面臨良率挑戰的技術平台，實際難度仍相當高。此外，也有市場人士認為，未來不排除英特爾與台積電可能透過不同方式合作，共同分擔先進製程與封裝需求。
+另一方面，特斯拉 Terafab 也宣布與英特爾合作。加上英特爾執行長陳立武近日也透露，公司正與輝達合作開發「令人興奮的新產品」，市場對英特爾未來在 AI 晶片與晶圓代工領域的布局也更加關注。
+（首圖來源：英特爾提供）

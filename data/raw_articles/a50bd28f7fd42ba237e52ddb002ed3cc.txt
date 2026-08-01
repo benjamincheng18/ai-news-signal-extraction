@@ -1,0 +1,8 @@
+OpenAI 宣布合作協議，與 AI 晶片新創 Cerebras Systems 達成價值數十億美元長期合作，OpenAI 三年內採購高達 750MW 算力。前外資知名分析師陸行之表示，因 Cerebras 是台積電System on Wafer 客戶，Cerebras 幾年內至少要花個 50 億至 70 億美元跟台積電買晶片，不無小補。
+
+外媒報導，OpenAI 與 Cerebras Systems 協議是 OpenAI 三年內採購高達 750MW 算力。Cerebras 由 Sam Altman 投資，專門開發加速 AI 模型長輸出（long outputs）系統。
+具技術優勢與性能突破的 Cerebras 產品，核心競爭力為獨特晶圓級晶片設計。Cerebras 單一巨型晶片整合大量計算核心、記憶體與頻寬，消除傳統晶片與系統導致推理速度緩慢的瓶頸，提供極低延遲（ultra-low-latency）AI 算力，正是 OpenAI 提升產品性能的關鍵。
+OpenAI 指出，整合 Cerebras 的技術是為了讓 AI 產品反應更加迅速。當用戶提出複雜問題、生成代碼、創作圖像、或運行 AI 代理（AI agents）時，AI 的思考過程將變得更加快速，進而實現即時（real-time）交互。這將使用戶能夠運行更高價值的運作負載，並增加產品的使用黏性。Cerebras 聯合創始人兼執行長 Andrew Feldman 表示，這就像寬頻改變了網際網路一般，即時的推理將徹底改變 AI，開啟構建和與 AI 模型交互的全新方式。
+這項數十億美元的交易背後隱藏著重要的戰略轉型。事實上，OpenAI 一直在努力減輕對輝達、微軟、甲骨文等主要雲端服務供應商的高度依賴。儘管這些合作夥伴為 OpenAI 的早期成功提供了支持，但在當前全球算力嚴重短缺且需求爆炸成長的背景下，尋求多元化的算力來源已成為 OpenAI 的優先事項。
+陸行之在個人 Facebook 粉絲頁表示，這不知算不算 circular financing，Open AI 於今早宣布向台積電主要系統晶圓 System on Wafer 客戶 Cerebras 採購 750MW 算力，如果 1GW 算力要投資 400 億至 500 億美元，750MW 整體晶片價值可能高達 150 億至 200 億美元，去掉交換器、聯網、CPU，也有 100 億至 140 億 SoW 晶片價值，假設製造成本佔 50%，Cerebras 幾年內至少要花 50 億至 70 億美元跟台積電買晶片，不無小補。
+(首圖來源：shutterstock)

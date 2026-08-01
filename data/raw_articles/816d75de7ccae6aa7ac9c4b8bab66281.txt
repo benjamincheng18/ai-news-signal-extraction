@@ -1,0 +1,10 @@
+OpenAI 24 日公開自家首款客製化 AI 晶片，這款名為「Jalapeño」的 AI 加速器是與博通（Broadcom）共同設計，以推動 OpenAI 在 AI 基礎設施的發展。
+
+Jalapeño 將用於執行有關推理（inference）的 AI 任務，在此過程會對資料進行運算處理，以回應使用者向 ChatGPT、Codex、API 等提出的請求。
+OpenAI 表示，工程師大約花了 9 個月時間完成晶片設計，隨後送交台積電生產，其中運用 AI 加速晶片設計流程。Jalapeño 的工程樣本正在實驗室以目標功耗和效能水準運行 AI 工作負載，包括驅動 OpenAI 自家的 GPT-5.3-Codex-Spark 模型
+OpenAI 計劃在今年底之前部署 Jalapeño，將是一項橫跨多個世代晶片開發計畫的第一步。而加拿大 EMS 大廠 Celestica 將打造搭載 Jalapeño 的伺服器系統，如同這款 AI 晶片一樣，伺服器系統只提供 OpenAI 自家使用。
+博通執行長陳福陽（Hock Tan）接受《路透社》採訪表示，團隊所打造的 Jalapeño，與 NVIDIA 的 Blackwell GPU，以及 Google 所設計的 TPU 旗鼓相當。
+OpenAI 硬體產品負責人 Richard Ho 則表示，Jalapeño 在設計上能夠與驅動眾多 AI 應用的大型語言模型快速且高效地協作。「我們認為，它在未來各種大型語言模型迭代上將具備優異的性能表現」，他告訴《路透社》。
+陳福陽還談到，AI 晶片需要大量的高頻寬記憶體（HBM），這對博通在客製化晶片產品的利潤率構成挑戰。他則表示，韓國的 SK 海力士和三星電子為博通供應記憶體晶片。
+為了打造自研晶片，Meta、亞馬遜、Google 尋求如博通、邁威爾（Marvell）等業者協助，他們能夠提供特定的設計服務和智慧財產，這是 Meta、亞馬遜、Google 內部團隊難以自行打造晶片產品的關鍵。
+（首圖為博通執行長 Hock Tan 將 Jalapeño 智慧處理器交付給 OpenAI 執行長 Sam Altman，來源：OpenAI）

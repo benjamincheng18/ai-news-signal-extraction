@@ -1,0 +1,10 @@
+Sony 今日特地說明 Xperia 1 VIII 的 AI 相機功能，以回應在社群平台分享範例照引發的批評。
+Sony 強調，「AI 攝影助理」並非拍攝後自動修圖，而是按快門前先分析場景、亮度、主體、距離與背景等條件，提出四種設定方向供使用者選擇。Sony 表示 AI 功能會提供構圖建議，屬拍攝時輔助工具，使用者可任意選擇、套用或完全關閉功能。
+Following the post about AI Camera Assistant, we’d like to explain the feature in more detail. It doesn’t edit photos after shooting – it suggests 4 settings in different creative directions based on the scene and subject. You can choose any option or use your own settings.pic.twitter.com/FO1u4jGFMW
+— Sony | Xperia (@sonyxperia)May 15, 2026
+
+這次說明引發關注，是因 Sony 範例照片遭大量批評，外界認為照片看起來過度處理、曝光與色彩表現不佳，與 Xperia 長期主打的自然色調與手動控制形象產生落差。Sony 澄清那些只是 AI 眾多選項之一，但批評聲浪卻未平息。
+AI 攝影助理會在拍攝前分析畫面並建議其他設定方向（即 Sony 所稱的「四種選項」），使用者可選擇之一或自己設定。Sony 也會提供構圖（框圖）建議。詳細風格或預設細節，Sony 說法是以「不同創意方向建議」為主，並未詳列每種選項的參數。
+至於相機硬體，Sony 表示 Xperia 1 VIII 相機模組較前代提升，能拍出更好影像，但強調問題出在 AI 調整或範例照，並非硬體問題。硬體細節與規格 Sony 仍未完整列出。
+總結來看，Sony 想突顯 Xperia 相機功能並藉 AI 攝影助理降低一般使用者門檻，另一方面也得面對宣傳範例照引發信任問題；是否能不損及既有「攝影純粹派」形象，又讓市場接受 AI 功能，仍待時間驗證。
+（首圖來源：科技新報）

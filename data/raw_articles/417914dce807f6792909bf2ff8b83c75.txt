@@ -1,0 +1,8 @@
+Intel 公布下一代 Panther Lake 處理器將於 2026 年 1 月 5 日在 CES 登場，並同步推出涵蓋筆電與手持裝置在內的完整零售產品線。
+根據 Intel 官網資訊，客戶運算事業群資深副總裁 Jim Johnson 將於發表會全面介紹新世代 PC 與邊緣設備的體驗，並公開 Core Ultra Series 3 的完整產品布局。
+（Source：Intel）
+Panther Lake 最大的特點在於採用 Hybrid Multi-Tile Design 架構，將不同製程節點的晶粒整合於同一封裝內。CPU tile 導入 Intel 自家 18A 製程，採用 RibbonFET 全環繞閘極電晶體與 PowerVia 背面供電技術。
+Graphic tile 則交由台積電以 N3E 製程代工，搭配全新的 Celestial Xe3 架構，提升整合式顯示效能與 AI 算力；而 SoC 與 I/O tile 採用台積電 N6 製程，負責記憶體控制器、多媒體模組與系統連線功能。
+根據 wccftech，Intel 也將在本次發表導入全新的 Core Ultra X 命名方式，涵蓋 Ultra X9、Ultra X7 與 Ultra X5 等多款 SKU，對應從輕薄筆電到高階效能機種的完整市場區隔，預期將成為 OEM 廠商於 2026 年初的首波主力新品。與過去先行展示、後續才進入量產不同，Panther Lake 將在 CES 期間直接啟動大規模零售導入。
+然而，儘管 Panther Lake 的技術規格受到高度關注，市場也對其量產過程保持審慎觀望。由於 18A 為全新節點，同時結合 PowerVia 與 RibbonFET 兩項關鍵技術，外界普遍擔心良率爬升速度是否能趕上 OEM 的上市時程。此外，Intel 與台積電 N3E、N6 晶粒的跨製程整合，也將考驗多晶粒封裝的穩定性與系統效能表現。
+（首圖來源：影片截圖）

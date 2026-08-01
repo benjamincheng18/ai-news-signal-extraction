@@ -1,0 +1,8 @@
+在最近的一次訪談中，特斯拉和 SpaceX 的首席執行長伊隆·馬斯克（Elon Musk）提出一個大膽構想，計劃建立一座全新的 2 奈米半導體製造廠（fab），並聲稱這座工廠將顛覆傳統的無塵室標準，甚至允許在裡面吃漢堡和抽雪茄。馬斯克接受《Moonshots》訪問時表示，現代的無塵室設計存在問題，他認為「他們在這些現代工廠中搞錯了無塵室」。
+馬斯克的這個構想不僅是對現有半導體製造流程的挑戰，也可能對特斯拉的內部晶片生產造成深遠影響。他強調，特斯拉的2奈米工廠將確保晶圓在整個過程中保持嚴格的隔離，以防止油脂或煙霧的污染，並確保晶圓始終被妥善保護。
+Elon – “I think they’re getting clean rooms wrong in these modern (chip) fabs. I’m going to make a bet here, that@Teslawill have a 2nm fab, and I can eat a cheeseburger and smoke a cigar in the fab.” 😂😅https://t.co/cro6t91lHu
+— The AI Investor (@The_AI_Investor)January 6, 2026
+
+目前，根據行業標準，任何在半導體製造廠內的飲食或吸菸行為都是被禁止的，這是出於對污染風險和安全規範的考量。即使在辦公區域，吸菸在大多數情況下也是被禁止的。馬斯克的這個構想不僅挑戰了行業的傳統觀念，也可能加速特斯拉在人工智慧、自動駕駛和電動車領域的內部晶片生產，減少對外部晶圓廠的依賴。
+儘管馬斯克對特斯拉的合作夥伴如台積電（TSMC）和三星半導體（Samsung Foundry）表示讚賞，但他也批評了這些公司在擴大產能方面的緩慢進展，這影響了他在xAI人工智慧項目上的發展。雖然目前尚未公布特斯拉2奈米工廠的具體時間表，但馬斯克的承諾顯示出他對製造效率創新的強烈推動。
+（首圖來源：shutterstock）

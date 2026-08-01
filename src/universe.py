@@ -4,13 +4,6 @@ import pandas as pd
 
 TICKER_NAME_MAP_PATH = Path(__file__).parent / "ticker_name_map.csv"
 
-SCOPED_INDUSTRIES = [
-    "semiconductor",
-    "electronic_components",
-    "computer_hardware",
-    "optical",
-]
-
 
 def get_ticker_universe() -> dict[str, list[str]]:
     return {
@@ -60,4 +53,4 @@ def get_scoped_universe() -> pd.DataFrame:
     )
 
     df = names.merge(industries, on="ticker")
-    return df[df["industry"].isin(SCOPED_INDUSTRIES)].reset_index(drop=True)
+    return df.reset_index(drop=True)

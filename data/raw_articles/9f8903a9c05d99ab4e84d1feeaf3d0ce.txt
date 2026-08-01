@@ -1,0 +1,11 @@
+隨著 AI 掀起晶片需求熱、台積電產能持續滿載，根據德意志銀行觀察，如今超微（AMD）、輝達（Nvidia Corp.）、高通（Qualcomm）及蘋果（Apple Inc.）開始急尋第二供應商，三星電子（Samsung Electronics Co.）成為這些科技巨擘委外代工的首選，比起英特爾（Intel Corp.）的晶圓代工服務更具吸引力。
+知名科技爆料人士Jukan 19日透過社交平台X指出，德銀由Robert Sanders帶領的分析師團隊最近透過研究報告指出，台積電3奈米產能目前極度吃緊，不但2026年被搶訂一空、訂單甚至一路排隊到2027年，迫使台積電將2026年資本支出大幅提高至520~560億美元，高於德銀原本預期的500億美元及市場共識的460億美元。
+Deutsche Bank: As TSMC’s capacity fills up, Samsung and Intel are expected to benefit from the “6 major customers" including Apple and Nvidia
+Deutsche Bank stated in a recently released research report that global semiconductor foundry giant TSMC is facing a “happy dilemma." Its…
+— Jukan (@jukan05)January 19, 2026
+
+這顯示，跟AI的爆炸性需求相比，台積電2025年的資本支出計畫「過於保守」，當前狀況不只是CoWoS封裝產能不足而已，核心晶圓製造（尤其是3奈米製程）更出現嚴重供應短缺。
+儘管三星、英特爾晶圓代工服務過去的紀錄好壞不一，但德銀指出，蘋果、輝達、AMD、博通（Broadcom）、高通及聯發科如今已別無選擇。這意味著，台積電在先進製程晶圓代工市場的占有率預料會從原本的95%下降至90%。
+根據德銀分析，三星位於德州泰勒（Taylor）的晶圓代工廠（SF2P），比起英特爾可能更具吸引力。「對想要尋找替代供應源的客戶而言，三星泰勒廠大概是他們的第一選擇」。
+報告稱，高通、AMD是最有可能考慮三星的客戶，另外據傳蘋果、博通則在評估英特爾的技術。不過，德銀認為，雖然英特爾的14A製程確實有潛力，但「仍有許多工作尚待完成」。
+（本文由MoneyDJ新聞授權轉載；首圖來源：shutterstock）

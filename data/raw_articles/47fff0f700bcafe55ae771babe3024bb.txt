@@ -1,0 +1,7 @@
+光子運算領導者Lightmatter今（27日）宣布，在雷射架構上取得關鍵性突破，正式推出Very Large Scale Photonics（VLSP）技術。同時，該公司也宣布與創意電子、新思科技、Cadence達成戰略合作。
+Lightmatter 指出，VLSP技術已整合至Guide™平台，打造出業界整合度最高的光源引擎，支援前所未有的頻寬表現，並推動雷射製造從仰賴人工組裝的生產模式，邁向類晶圓代工（foundry-grade）的量產流程。VLSP技術運用大規模光子整合，突破光功率擴展的既有限制，為AI時代的光子互連藍圖奠定基礎。Guide平台在初期即實現光學頻寬密度提升8倍，同時具備高度部署擴展性與優異的波長穩定度，為AI基礎建設帶來關鍵支撐。
+Lightmatter 表示，Guide VLSP光源引擎透過高度整合的架構，大幅降低分離式雷射模組所需的元件數，同時提升良率與長期運作可靠度。透過這項整合式設計，可建立一條可從1個波長擴展至64個波長以上的雷射技術藍圖，並顯著降低組裝複雜度。成果是顯著的頻寬密度提升：第一代Guide驗證平台，即可在僅1RU機箱 中支援100 Tbps的交換器頻寬；若採用傳統ELSFP架構則需約18個ELSFP模組，並占用多達4RU機櫃空間。
+同時Lightmatter 也宣布與創意電子達成戰略合作。雙方將聯手推動商業化 Passage™ 3D 共同封裝光學（Co-Packaged Optics, CPO） 解決方案，搶攻超大規模（Hyperscale）AI 基礎設施市場，重新定義 AI 運算的可擴展性；該公司也跟 Cadence、新思科技展開技術合作，將Cadence經過矽晶驗證的高速SerDes介面IP，以及新思科技224G SerDes與UCIe IP（3奈米製程），整合至 Passage 光學引擎中。
+Lightmatter 指出，Passage™能為XPU及Switch的晶片間通訊提供前所未有的頻寬密度與能源效率，進而突破全球最大規模、最複雜AI基礎模型的效能極限。目前的技術受限於晶片邊緣的物理I/O空間極限，限制了每個光學引擎(Optical Engine)的最大頻寬（maximum bandwidth）與連線基數（radix）。藉由讓AI Cluster的運算規模能無縫跨機櫃串聯，Passage™平台顯著縮短了訓練時間，並大幅提升下一代尖端AI模型的Token處理速度。
+Lightmatter共同創辦人暨執行長Nicholas Harris表示，「我們的客戶正為MoE與世界模型打造前所未有規模的AI基礎建設，這要求從運算、互連到光源，都必須具備半導體等級的整合能力。可擴展的雷射，才能真正實現可擴展的CPO。Guide透過高度整合，帶來突破性的頻寬密度。」
+（首圖來源：科技新報）

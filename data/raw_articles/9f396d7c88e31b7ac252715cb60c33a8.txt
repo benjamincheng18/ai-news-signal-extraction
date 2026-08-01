@@ -1,0 +1,9 @@
+台積電2 奈米製程（N2）正被視為下一代 CPU 的關鍵技術。爆料者 QQ_Timmy 引述摩根士丹利報告，行動裝置與高效能運算（HPC）需求持續攀升，兩大處理器廠商英特爾與 AMD 新產品將導入台積電 N2 節點，分別用於英特爾Nova Lake與AMD EPYC Venice架構。
+AMD and Intel could join the N2 customer list in 1H26, we believe. As AMD announcedofficially, its next-generation AMD EPYC processor, code-named “Venice,” has already beentaped out and will be brought up on TSMC advanced 2nm process technology. Accordingto our industry…pic.twitter.com/2LwmXidztU
+— 駿HaYaO (@QQ_Timmy)October 1, 2025
+
+AMD 執行長蘇姿丰已於今年 4 月正式宣布，代號Venice的下一代 EPYC 資料中心處理器已在台積電 2 奈米製程完成tape-out，並將率先進入驗證與量產流程。
+英特爾部分，摩根士丹利報告指出，Nova Lake 的運算核心（Compute Tile）極有可能交由台積電以 N2 代工，主因在自家18A 節點良率偏低，尚未達到大規模商用水準，迫使公司在關鍵產品線轉向外部製造。市場也因此憂心，後續14A 節點能否克服良率瓶頸，不確定性仍高。
+報告預估，台積電 N2 月產能持續擴張：2024 年約 1 萬片，今年提升至 5 萬片，年底達 9.5 萬片，到 2026 年底則有望衝高至 14 萬片，以因應 HPC 與行動應用領域不斷增長需求。
+AMD 與英特爾傳出同步採用台積電 2 奈米後，台積電 CPU 與 HPC 市場主導地位有望再度鞏固。外界同時關注，台積電加速先進製程布局，包括美國廠 A16（1.6 奈米）節點，計畫提前一年推出，以因應市場需求與地緣政治壓力。
+（首圖來源：英特爾）

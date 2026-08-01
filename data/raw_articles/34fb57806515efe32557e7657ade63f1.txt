@@ -1,0 +1,14 @@
+對於外媒報導 NVIDIA 投資 OpenAI 的計畫卡關，黃仁勳表示「那完全是胡說。」
+
+31 日晚間兆元宴後黃仁勳受訪強調，NVIDIA 將對 OpenAI 進行巨額投資。「我相信 OpenAI，它是我們這個時代最具影響力的公司之一，我真的很喜歡和 Sam（OpenAI 執行長奧特曼）合作。」他重申 NVIDIA 絕對會參與 OpenAI 這一輪融資，「我們會投入一大筆錢，可能是我們有史以來最大的一筆投資」。
+至於金額細節，「讓 Sam 宣布他要募資多少，這由他自己決定」，黃仁勳補充說，奧特曼正在進行這一輪融資的收尾工作，「我們肯定會參與這一輪融資，因為這是一項非常好的投資」。
+NVIDIA 與 OpenAI 在 2025 年 9 月於加州聖塔克拉拉的 NVIDIA 總部公布重大合作，並簽署一份合作備忘錄，由 NVIDIA 為 OpenAI 建置至少 10 GW 規模的運算能力，並同意投資最多 1,000 億美元，協助 OpenAI 支付相關成本。做為協議的一部分，OpenAI 同意向 NVIDIA 租用晶片。黃仁勳幫時形容，這項交易是「史上最大的運算專案」。
+與 NVIDIA 宣布後，OpenAI 又與多家晶片與雲端公司簽署一連串合作協議，進而推動全球股市上漲。奧特曼曾表示，這些交易讓 OpenAI 承擔高達 1.4 兆美元的建設承諾，金額超過 OpenAI 2025 年預期營收的 100 倍。投資人開始擔憂 OpenAI 是否有能力負擔相關成本，導致部分與 OpenAI 有關的科技類股遭到拋售。
+近期市場對 OpenAI 的疑慮，還有來自 Google Gemini 亮眼表現，相比之下 ChatGPT 成長放緩，OpenAI 甚至內部發布「紅色警戒」（code red）面對競爭。此外，Anthropic 憑藉受歡迎的 AI 編碼工具 Claude Code，對 OpenAI 帶來壓力。
+值得一提還有，1 日晚間黃仁勳與台積電董事長暨總裁魏哲家餐敘後，承諾會為 NVIDIA 的北士科總部親自來台與北市府簽約，未來將興建一座很美的建築。國內媒體則報導，簽約作業可能落在農曆春節前夕、約 2 月 10 日至 15 日之間完成，如他所說「很快將會回來。」
+We love working with NVIDIA and they make the best AI chips in the world. We hope to be a gigantic customer for a very long time.
+I don’t get where all this insanity is coming from.
+— Sam Altman (@sama)February 2, 2026
+
+編按：奧特曼稍早在 X 平台發文「我們很樂於與 NVIDIA 合作，他們打造了全球最頂尖的 AI 晶片。我們希望在很長一段時間內，成為他們規模極為龐大的客戶」，以回應近日以來對 NVIDIA 投資 OpenAI 計畫停滯的傳聞。（2026/02/03 AM 10:00）
+（首圖來源：科技新報攝）

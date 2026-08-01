@@ -1,0 +1,8 @@
+今年 COMPUTEX 最重磅的新品莫過於 NVIDIA 首顆為 Windows PC 打造的 SoC──RTX Spark。這也代表 WoA（Windows on Arm）市場不再由高通獨佔，迎接和 x86 市場一樣的雙強爭霸局面。究竟 RTX Spark 和 Snapdragon X2 誰才能帶領 WoA 繼續向前？
+WoA一詞兩年前COMPUTEX跟著高通首顆專為Windows PC打造的Snapdragon X問世而躍上新聞版面。確實當時Snapdragon能耗和續航都是Windows PC前所未見，不僅微軟和高通，整個市場都很看好WoA的未來。
+然而兩年過去，儘管Snapdragon確實在Windows PC市場站穩腳步，但跟當初高通執行長Cristiano Amon喊的五年內拿下Windows PC市場超過50%市佔率還是有相當大距離。最主要原因莫過於低估x86平台能效進步的幅度。Snapdragon之後的Lunar Lake、Arrow Lake以至今年Panther Lake，都證明了x86平台也能有不輸Arm的能效。
+原本高通寄望的「以低價帶動高價」策略，也被價格下修的Lunar Lake與最近亮相的Wildcat Lake打亂節奏。雖然Snapdragon X2改變策略猛攻高階市場，但始終揮之不去的軟體相容性陰影和Panther Lake夾擊，都讓高通出師不順，採用機種較上代明顯少了許多，也讓市場對WoA未來打了個問號。
+然而RTX Spark出現讓WoA黯淡的前景又亮了起來。NVIDIA採取和高通截然不同的「高價建立信心、低價衝擊市場」策略，可看到首波搭載RTX Spark的機種均是各品牌當家旗艦機種，如戴爾XPS或華碩ProArt，且均瞄準創作者或是專業應用的高階市場。
+確實把RTX Spark和Snapdragon X2規格擺在一起，馬上就能理解為何NVIDIA信心滿滿：因有具Blackwell架構和高達6,144 CUDA核心的自研GPU。筆者有幸造訪NVIDIA的COMPUTEX RTX Spark展示區域，執行一系列代理式AI、內容創作及3A電競。這些過去Snapdragon難以想像的應用如今受惠NVIDIA CUDA及經營生態圈的深厚經驗，得以在WoA流暢運行。
+總而言之WoA如果要繼續壯大，接下來應該只能靠RTX Spark挾NVIDIA CUDA強大生態系衝擊Windows PC市場。不過微妙的是NVIDIA同時掌握x86平台獨顯市場，之前也承認與英特爾合作開發x86平台RTX SoC中，所以WoA究竟會在這種微妙關係下發展到何種境地，值得仔細觀察。
+（首圖來源：高通／輝達）

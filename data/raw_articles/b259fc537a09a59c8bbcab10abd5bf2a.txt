@@ -1,0 +1,2 @@
+TechPowerUp 2025 年 12 月 19 日報導，受 AI 與 HPC 拉貨影響，台積電先進製程與 CoWoS 先進封裝產能長期吃緊。
+本篇文章將帶你了解 :NVIDIA、AMD 盯上 Intel 14A，重點在於推進「TSMC＋1」，而非立刻轉單Intel EMIB 開始測試，凸顯先進封裝已成 AI 時代的「產能天花板」

@@ -1,0 +1,7 @@
+高通在夏威夷Snapdragon高峰會正式推出Snapdragon 8 Elite Gen 5行動平台，提供QRD（Qualcomm Reference Design）參考設計設計機的效能測試結果，結果相比前一代的Snapdragon 8 Elite行動平台有大躍進，跑分也狠甩蘋果最新A19晶片。
+這次Snapdragon 8 Elite Gen 5採用台積電3奈米（N3P）製程，帶來全面升級，並搭載第三代高通Oryon CPU架構，在單核提升20%、多核提升17%；全新Adreno GPU架構採用切片架構（sliced architecture），時脈高達1.2GHz，讓圖像密集型遊戲效能提升23%、功耗減少20%；Hexagon NPU較上一代性能改善37%、電力功耗改善16%。
+其中，Oryon CPU架構延續2+ 6全大核CPU配置，2顆高效能核心（Prime Core）時脈最高可達4.6GHz，6顆效能核心（Performance Core）時脈最高可達3.62GHz，在多工處理、內容創作與遊戲應用中提供順暢且快速的運算體驗。
+根據Geekbench 6版本測試，Snapdragon 8 Elite Gen 5的單核跑分為3,811分、多核跑分12,117分；安兔兔總分大飆至424萬分，其中CPU為126萬、GPU 142萬分；而主要重於AI功能運算的AI安兔兔，整體跑分來到269萬分。
+高通去年推出的Snapdragon 8 Elite，在Geekbench 6版本部分，Geekbench ST單核跑分3,221分、MT多核跑分10,426分；V6.3版本ST單核跑分為3,222分，MT多核跑分為10,444分，可以看出新一代表現更加亮眼。至於安兔兔跑分為301萬分，AI安兔兔為201萬分。
+相比之下，蘋果最新iPhone 17搭載的A19晶片，Geekbench 6版本中，CPU單核跑分為3,584分、多核跑分9,192分；安兔兔總分為218.2萬分，其中CPU為75萬分、GPU 78萬分。另從瘋先生進行的跑分測試來看，A19單核3,608分、多核8,810分；A19 Pro單核跑分3,895分、多核跑分9,746分。
+（首圖來源：科技新報）

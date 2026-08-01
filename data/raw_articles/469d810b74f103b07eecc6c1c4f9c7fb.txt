@@ -1,0 +1,6 @@
+Google（母公司 Alphabet）積極探索利用財務實力擴大人工智慧（AI）晶片市場，特別是挑戰市場領導者輝達主導地位。Google Tensor Processing Units（TPUs）AI 負載應用逐漸增多，更加速 AI 晶片採用率。
+為了促進TPU需求，Google計劃更多支持資料中心合作夥伴，此外，Google還考慮投資雲端計算新創公司Fluidstack 1億美元，使Fluidstack估值達75億美元，並與其他合作夥伴協商多財務承諾，以推動TPU採用率。
+市場顯示競爭依舊激烈。截至17日，輝達市值達4.5兆美元，主要以GPU推動AI熱潮。而Alphabet將資本支出從910億美元翻倍至約1,800億美元，重點投資AI基礎設施，擴大Google Cloud並與博通、台積電等合作夥伴共同開發Tensor晶片，欲削弱輝達定價權。
+Google融資推動符合更廣泛的行業趨勢。儘管輝達與Meta達成多年合作協議，取得數百萬個Blackwell和Rubin GPU及Grace CPU，顯示CPU領域不斷擴張，但Google策略則強調融資給超大規模資料中心和合作夥伴，與輝達硬體主導地位形成對比。Alphabet股價上漲4%。
+這些策略使Google降低TPU部署障礙以奪取AI計算市場份額，CPU、GPU及相關基礎設施的需求之後也將大幅上升。
+（首圖來源：AI）

@@ -1,0 +1,6 @@
+英特爾（Intel）AI 加速器市場取得突破，戴爾（Dell）宣布旗下PowerEdge XE7740 伺服器導入Gaudi 3 AI 晶片，成為少數選擇英特爾 AI 產品的主流廠商，讓 Gaudi 3 首度躋身企業級應用的核心舞台。
+Gaudi 3 採台積電5 奈米製程，由台灣 IC 設計廠世芯協助設計，並支援Llama4、Deepseek、Phi4、Qwen3、Falcon3等熱門 AI 模型。主要競爭對手為NVIDIA H100與AMD MI300X 系列。
+英特爾 2019 年收購 Habana Labs 後推出 Gaudi 系列，但始終缺乏大規模採用。Gaudi 2 當年還在對標 NVIDIA A100 時，NVIDIA 已經全力推進至 H100，如今甚至邁入 Blackwell 架構的 B200、B300 時代，世代差距愈拉愈大。
+那麼，為什麼 Dell 此時選擇英特爾？因NVIDIA 與 AMD 的 AI 晶片價格昂貴，許多企業難以承受。相較之下，英特爾 Gaudi 3 雖然軟體生態仍有限，但價格更具優勢，性價比明顯較高。加上 Dell 與英特爾 Xeon 平台長期合作，關係緊密，使 Dell 願意成為少數率先採用 Gaudi 3 的主流廠商之一。
+此舉不僅是英特爾再度嘗試 AI 領域，也代表 Dell 嘗試「NVIDIA 之外」建立第二選項。AI 基礎設施需求急遽上升，企業正尋求更高效且可負擔的解決方案。雖然 Dell 背書給英特爾轉機，但 Gaudi 3 能否真正吸引其他客戶仍有待觀察。外界普遍關注英特爾下代Jaguar Shores架構能否扭轉劣勢。
+（首圖來源：Intel）

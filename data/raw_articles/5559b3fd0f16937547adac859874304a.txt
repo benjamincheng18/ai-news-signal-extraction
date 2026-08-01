@@ -1,0 +1,11 @@
+近年來，2 奈米製程成為半導體產業兵家必爭之地，台積電、三星與 Intel 等巨頭紛紛加快腳步。除了這些領頭羊之外，日本新創Rapidus也在近幾個月聲勢大漲，成為全球市場高度關注焦點。
+根據爆料人士透露，Rapidus 的2HP製程節點邏輯密度達237.31 MTr/mm²，幾乎與台積電N2的236.17 MTr/mm²相同。Rapidus 採用了高密度（HD）單元庫，單元高度為 138 單位，並採用 G45 pitch。由於 N2 與 2HP 都屬於 HD 風格的單元設計，顯示雙方皆以追求最大邏輯密度為目標，也就是說，在相同面積下能放入更多電晶體，最終可實現的運算功能也相當接近。
+Raipidus share the data with 2nm（Named 2HP)
+so that，we can know the NEXT Gen process technology in Logic Densitypic.twitter.com/sHsjJB3mn8
+— Kurnal (@Kurnalsalts)August 31, 2025
+
+兩家公司同樣採用 GAA（Gate-All-Around）環繞式閘極，不過在細節上有所不同。台積電的 N2 尚未計劃導入背面供電網路（BSPDN），預計要到後續的 N2P 版本才會考慮；Rapidus 則已明確表態，將在 2HP 上直接引入 BSPDN 技術。
+至於製程方式上， Rapidus 選擇單晶圓（single-wafer）處理，晶圓一次一片處理，強調在小規模生產中快速調整的靈活性；台積電則延續多晶圓（batch）生產，以支撐大規模量產。
+另外，在產業生態上，雙方的差距更為明顯。Rapidus 雖已與 IBM、Cadence 等展開合作，但整體仍處於起步階段，產業支持度明顯不足。相比之下，台積電早已形成完整的 EDA、IP 與客戶鏈，合作夥伴涵蓋 Apple、NVIDIA 與 AMD 等國際大廠，擁有更完整且成熟的生態系統。
+Rapidus 計劃在2026 年第一季釋出基礎設計套件（PDK），並將目標鎖定於2027 年量產。而台積電預計2025 年第四季量產 2 奈米。業界人士指出，Rapidus 仍握有大約兩年期限來證明實力，若無法在時程內展現成果，恐將失去競爭機會並被迫退出市場。
+（首圖來源：Rapidus）
