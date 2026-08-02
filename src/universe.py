@@ -2,8 +2,7 @@ from pathlib import Path
 
 import pandas as pd
 
-TICKER_NAME_MAP_PATH = Path(__file__).parent / "ticker_name_map.csv"
-
+TICKER_NAME_MAP_PATH = Path(__file__).parent.parent / "data" / "ticker_name_map.csv"
 
 def get_ticker_universe() -> dict[str, list[str]]:
     return {
